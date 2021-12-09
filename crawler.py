@@ -7,10 +7,18 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import csv
 
+# Use the safari web driver pre installed on mac to get the page in selinium to virtually click on
+# the load more button that is javascript with hidden pages.
 driver = webdriver.Safari()
+# this is the page and at the bottom you see the load more
 driver.get('https://rateyourmusic.com/new-music/')
-button = driver.find_element_by_id("view_more_new_releases_all").click()
-time.sleep(10)
+for i in range(10):
+    # find the element and click it
+    button = driver.find_element_by_id("view_more_new_releases_all").click()
+    # short sleep to not overload server
+    time.sleep(10)
+
+
 with open("./input/new_releases.txt", 'w') as f:
     f.write(driver.page_source)
 
