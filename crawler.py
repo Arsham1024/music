@@ -3,7 +3,16 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 import csv
+
+driver = webdriver.Safari()
+driver.get('https://rateyourmusic.com/new-music/')
+button = driver.find_element_by_id("view_more_new_releases_all").click()
+time.sleep(10)
+with open("./input/new_releases.txt", 'w') as f:
+    f.write(driver.page_source)
 
 
 with open("./input/new_releases.txt" , "r") as f:
@@ -46,12 +55,11 @@ for i in range(len(basic_info_arr)):
         temp.append(stat_info_arr[i][j])
     to_save.append(temp)
 
-# print to save contents
-for i in to_save:
-    print(i , sep="\n")
-
+# Save the results as a csv file to the ouputs
 with open('./output/new_releases.csv', 'a+') as f:
     writer = csv.writer(f)
 
     for i in to_save:
         writer.writerow(i)
+
+print("Data gathered from the website was successfully saved to outputs")
