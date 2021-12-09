@@ -3,16 +3,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
 from selenium.webdriver.chrome.options import Options
-
-
-options = Options()
-options.add_argument("--disable-infobars")
-driver = webdriver.Safari
-driver.get("https://rateyourmusic.com/new-music/")
-element = driver.find_element_by_id('view_more_new_releases_all')
-element.click()
-
-print(element)
+import csv
 
 
 with open("./input/new_releases.txt" , "r") as f:
@@ -58,3 +49,9 @@ for i in range(len(basic_info_arr)):
 # print to save contents
 for i in to_save:
     print(i , sep="\n")
+
+with open('./output/new_releases.csv', 'a+') as f:
+    writer = csv.writer(f)
+
+    for i in to_save:
+        writer.writerow(i)
