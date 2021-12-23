@@ -7,7 +7,7 @@ import numpy as np
 
 def crawler(num_pages):
     # wait before loading a new page
-    sleep_secs = 5
+    sleep_secs = Sleep
     # The array to use when saving to a file
     to_save = []
 
@@ -16,7 +16,7 @@ def crawler(num_pages):
     driver = webdriver.Safari()
 
     # this is the page and at the bottom you see the load more
-    driver.get('https://rateyourmusic.com/new-music/')
+    driver.get(Seed)
     for i in range(num_pages):
         # find the element and click it
         button = driver.find_element_by_id("view_more_new_releases_all").click()
@@ -100,7 +100,9 @@ def turn_into_pandas(arr):
 if __name__ == "__main__":
     # Run the crawler
     # The number of pages we need to crawl for this website. each pages has 25 entries
-    num_pages = 1
+    num_pages = 10
+    Sleep = 2
+    Seed = "https://rateyourmusic.com/new-music/"
 
     # Run the crawler for this number of pages
     print(crawler(num_pages))
