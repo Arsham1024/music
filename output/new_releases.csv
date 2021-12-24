@@ -1,276 +1,1276 @@
-Artist,Song,Release Date,Avg,# Ratings,Wants
-Silk Sonic,An Evening With Silk Sonic,12 November 2021,3.74,"10,175",613
-Converge & Chelsea Wolfe,Bloodmoon: I,19 November 2021,3.59,"2,567",512
-dltzk,Frailty,12 November 2021,3.47,"2,647",550
-Idles,Crawler,12 November 2021,3.36,"2,820",229
-Arca,KicK iii,1 December 2021,3.73,"3,292",293
-Richard Dawson & Circle,Henki,26 November 2021,3.57,"1,390",355
-Ethereal Shroud,Trisagion,10 December 2021,3.80,942,379
-Kaatayra,Inpariquipê,26 November 2021,3.76,668,338
-Arca,KICK ii,30 November 2021,3.26,"2,750",200
-GAS,Der lange Marsch,3 December 2021,3.40,836,265
-Taylor Swift,Red (Taylor's Version),12 November 2021,3.53,"2,177",185
-Arca,kiCK iiiii,3 December 2021,3.59,"1,997",191
-Adele,30,19 November 2021,2.93,"2,562",112
-100 Gecs,10000 Gecs,2022,-,-,328
-Mach-Hommy,Balens Cho (Hot Candles),4 December 2021,3.61,"1,339",222
-Aesop Rock x BlockheadAesop RockBlockhead,Garbology,Aesop RockBlockhead,3.57,"1,169",179
-tricot,上出来 (Jodeki),15 December 2021,3.66,657,244
-DJ Sabrina the Teenage DJ,The Makin' Magick II Album,26 November 2021,3.68,776,211
-Ill Considered,Liminal Space,12 November 2021,3.76,619,210
-Courtney Barnett,"Things Take Time, Take Time",12 November 2021,3.06,"1,000",116
-Arca,kick iiii,2 December 2021,3.14,"1,862",138
-R.A.P. Ferreira,The Light Emitting Diamond Cutter Scriptures,26 November 2021,3.42,"1,010",191
-Stormkeep,Tales of Othertime,19 November 2021,3.58,860,180
-Sewerslvt,"We Had Good Times Together, Don't Forget That",12 November 2021,3.53,973,190
-Jon Hopkins,Music for Psychedelic Therapy,12 November 2021,3.33,699,167
-Plebeian Grandstand,Rien ne suffit,19 November 2021,3.52,512,159
-Damon Albarn,"The Nearer the Fountain, More Pure the Stream Flows",12 November 2021,3.20,803,106
-Rx Papi & Gud,Foreign Exchange,19 November 2021,3.57,"1,382",153
-So Hideous,None But a Pure Heart Can Sing,3 December 2021,3.62,419,181
-Cynic,Ascension Codes,26 November 2021,3.32,556,117
-Irreversible Entanglements,Open the Gates,12 November 2021,3.56,420,151
-Neil Young & Crazy Horse,Barn,10 December 2021,3.23,400,84
-Chief Keef,4NEM,17 December 2021,3.56,876,144
-Obscura,A Valediction,19 November 2021,3.58,423,89
-Failure,Wild Type Droid,3 December 2021,3.55,439,105
-Robert Plant | Alison KraussRobert PlantAlison Krauss,Raise the Roof,Robert PlantAlison Krauss,3.30,236,58
-Exodus,Persona non grata,19 November 2021,3.40,343,63
-Makthaverskan,För Allting,12 November 2021,3.53,392,102
-Swallow the Sun,Moonflowers,19 November 2021,3.54,352,73
-Der Weg einer Freiheit,Noktvrn,19 November 2021,3.54,345,92
-Archgoat,Worship the Eternal Darkness,26 November 2021,3.54,366,70
-Malignant Altar,Realms of Exquisite Morbidity,10 December 2021,3.76,315,91
-They Might Be Giants,BOOK,12 November 2021,3.38,260,84
-FBC & VHOOR,Baile,12 November 2021,3.53,472,100
-Sega Bodega,Romeo,12 November 2021,3.45,572,88
+Artist,Song,Date Released,Avg,# Ratings,Wants
+Converge & Chelsea Wolfe,Bloodmoon: I,19 November 2021,3.59,2607,512
+Arca,KicK iii,1 December 2021,3.72,3415,306
+Richard Dawson & Circle,Henki,26 November 2021,3.57,1453,377
+Ethereal Shroud,Trisagion,10 December 2021,3.79,1024,394
+Kaatayra,Inpariquipê,26 November 2021,3.76,716,354
+Arca,KICK ii,30 November 2021,3.26,2799,202
+GAS,Der lange Marsch,3 December 2021,3.39,855,263
+Arca,kiCK iiiii,3 December 2021,3.58,2062,192
+100 Gecs,10000 Gecs,2022,-,inf,339
+Adele,30,19 November 2021,2.93,2573,110
+tricot,上出来 (Jodeki),15 December 2021,3.64,796,261
+Mach-Hommy,Balens Cho (Hot Candles),4 December 2021,3.60,1367,224
+DJ Sabrina the Teenage DJ,The Makin' Magick II Album,26 November 2021,3.68,801,210
+Stormkeep,Tales of Othertime,19 November 2021,3.58,873,186
+Arca,kick iiii,2 December 2021,3.14,1905,138
+R.A.P. Ferreira,The Light Emitting Diamond Cutter Scriptures,26 November 2021,3.42,1018,191
+Plebeian Grandstand,Rien ne suffit,19 November 2021,3.52,519,160
+So Hideous,None But a Pure Heart Can Sing,3 December 2021,3.64,449,188
+Rx Papi & Gud,Foreign Exchange,19 November 2021,3.57,1409,156
+Chief Keef,4NEM,17 December 2021,3.54,960,162
+Cynic,Ascension Codes,26 November 2021,3.32,567,116
+Neil Young & Crazy Horse,Barn,10 December 2021,3.23,414,87
+Obscura,A Valediction,19 November 2021,3.58,431,88
+Burial,Antidawn EP,6 January 2022,2.50,7,177
+Malignant Altar,Realms of Exquisite Morbidity,10 December 2021,3.74,395,127
+Failure,Wild Type Droid,3 December 2021,3.55,457,112
+Robert Plant | Alison KraussRobert PlantAlison Krauss,Raise the Roof,Robert PlantAlison Krauss,3.30,240,56
+Exodus,Persona non grata,19 November 2021,3.41,349,64
+Der Weg einer Freiheit,Noktvrn,19 November 2021,3.53,351,94
+Swallow the Sun,Moonflowers,19 November 2021,3.54,358,74
+Archgoat,Worship the Eternal Darkness,26 November 2021,3.54,374,71
 David Bowie,Toy,26 November 2021,3.23,139,106
-Don L,Roteiro pra Aïnouz (Vol. 2),26 November 2021,3.58,408,99
-Shinichiro Yokota,Tokonoma Style,22 November 2021,3.26,266,107
-Deep Purple,Turning to Crime,26 November 2021,2.96,196,40
-Khemmis,Deceiver,19 November 2021,3.53,265,50
-Ovlov,Buds,19 November 2021,3.49,479,61
-Angèle,Nonante-Cinq,3 December 2021,3.22,410,96
-TWICE,Formula of Love: O+T=<3,12 November 2021,3.41,709,54
-Freddie Gibbs,SSS,2022,-,-,110
-Elbow,Flying Dream 1,19 November 2021,3.35,264,44
-Hypocrisy,Worship,26 November 2021,3.24,252,41
-Portico Quartet,Monument,12 November 2021,3.57,325,71
-Jonny Greenwood,Spencer,12 November 2021,3.76,291,72
-Michael Pisaro-Liu,Revolution Shuffle,21 November 2021,3.44,72,78
-In Mourning,The Bleeding Veil,26 November 2021,3.57,189,50
-"Black Country, New Road",Never Again,3 December 2021,3.26,150,79
-DJ Sabrina the Teenage DJ,The Other Realm,26 November 2021,3.47,283,71
-Boldy James & The Alchemist,Super Tecmo Bo,14 December 2021,3.57,555,62
-Félicia Atkinson & Jefre Cantu-Ledesma,Un hiver en plein été,2 December 2021,3.39,107,74
-Alva Noto,HYbr:ID I,12 November 2021,3.31,191,58
-black midi,Live-Cade,19 November 2021,3.95,181,59
-Blawan,Woke Up Right Handed,12 November 2021,3.38,275,54
-Funeral Mist,Deiform,17 December 2021,3.77,163,54
-Devin Townsend,The Puzzle,3 December 2021,3.06,212,50
-Underscores,Boneyard AKA Fearmonger,3 December 2021,3.56,497,56
-Sunn O))),"Metta, Benevolence BBC 6 Live: On the Invitation of Mary Anne Hobbs",26 November 2021,3.66,188,45
-Negură Bunget,Zău,26 November 2021,3.32,142,44
-Clams Casino,Winter Flower,17 November 2021,3.04,330,55
-Effluence,Psychocephalic Spawning,13 December 2021,3.73,116,64
-Klein,Harmattan,19 November 2021,3.33,135,67
-Dream Unending,Tide Turns Eternal,19 November 2021,3.49,225,53
-John Zorn,New Masada Quartet,17 December 2021,3.70,33,69
-Devin Townsend,Snuggles,3 December 2021,2.82,180,52
-Rival Consoles,Overflow,3 December 2021,3.22,142,62
-Five Pebbles,forgetmenot,20 December 2021,3.92,209,63
-Volbeat,Servant of the Mind,3 December 2021,3.48,160,29
-Polo Perks <3 <3 <3,I.C.F.M. Pt. 3 / Fortheonesilost,17 November 2021,3.54,243,69
-Vertebra Atlantis,Lustral Purge in Cerulean Bliss,12 November 2021,3.55,186,49
-Can,Live in Brighton 1975,3 December 2021,3.73,112,44
-Springsteen E Street BandBruce SpringsteenE Street Band,The Legendary 1979 No Nukes Concerts,Bruce SpringsteenE Street Band,4.13,95,23
-Kaytranada,Intimidated,19 November 2021,3.39,572,38
-Jlin,Embryo,10 December 2021,3.39,191,53
-Aquilus,Bellum I,3 December 2021,3.59,164,45
-Kadavar & Elder,ELDOVAR - A Story of Darkness & Light,3 December 2021,3.20,165,43
-iANO,Dispossession,18 November 2021,3.56,127,68
+Don L,Roteiro pra Aïnouz (Vol. 2),26 November 2021,3.57,425,102
+Félicia Atkinson & Jefre Cantu-Ledesma,Un hiver en plein été,2 December 2021,3.37,122,105
+Khemmis,Deceiver,19 November 2021,3.53,272,52
+Deep Purple,Turning to Crime,26 November 2021,2.96,198,39
+Shinichiro Yokota,Tokonoma Style,22 November 2021,3.27,270,106
+Ovlov,Buds,19 November 2021,3.49,489,62
+Angèle,Nonante-Cinq,3 December 2021,3.22,419,97
+Freddie Gibbs,SSS,2022,-,inf,113
+Elbow,Flying Dream 1,19 November 2021,3.34,271,43
+Boldy James & The Alchemist,Super Tecmo Bo,14 December 2021,3.58,615,72
+Hypocrisy,Worship,26 November 2021,3.25,257,40
+Funeral Mist,Deiform,17 December 2021,3.76,189,63
+Five Pebbles,forgetmenot,20 December 2021,3.85,322,77
+In Mourning,The Bleeding Veil,26 November 2021,3.58,192,51
+Michael Pisaro-Liu,Revolution Shuffle,21 November 2021,3.44,75,79
+DJ Sabrina the Teenage DJ,The Other Realm,26 November 2021,3.47,284,72
+"Black Country, New Road",Never Again,3 December 2021,3.25,152,78
+Underscores,Boneyard AKA Fearmonger,3 December 2021,3.56,507,58
+Effluence,Psychocephalic Spawning,13 December 2021,3.75,127,68
+Sunn O))),"Metta, Benevolence BBC 6 Live: On the Invitation of Mary Anne Hobbs",26 November 2021,3.66,188,46
+Dream Unending,Tide Turns Eternal,19 November 2021,3.51,231,57
+black midi,Live-Cade,19 November 2021,3.94,183,60
+Devin Townsend,The Puzzle,3 December 2021,3.06,218,50
+John Zorn,New Masada Quartet,17 December 2021,3.70,33,71
+Klein,Harmattan,19 November 2021,3.34,140,67
+Clams Casino,Winter Flower,17 November 2021,3.04,332,55
+Negură Bunget,Zău,26 November 2021,3.32,143,43
+Devin Townsend,Snuggles,3 December 2021,2.81,186,52
+Polo Perks <3 <3 <3,I.C.F.M. Pt. 3 / Fortheonesilost,17 November 2021,3.54,250,70
+Rival Consoles,Overflow,3 December 2021,3.22,146,63
+Aquilus,Bellum I,3 December 2021,3.59,175,46
+Volbeat,Servant of the Mind,3 December 2021,3.48,161,29
+Can,Live in Brighton 1975,3 December 2021,3.73,113,44
+Springsteen E Street BandBruce SpringsteenE Street Band,The Legendary 1979 No Nukes Concerts,Bruce SpringsteenE Street Band,4.12,96,24
+Jlin,Embryo,10 December 2021,3.39,195,52
+Kadavar & Elder,ELDOVAR - A Story of Darkness & Light,3 December 2021,3.20,169,43
+Kaytranada,Intimidated,19 November 2021,3.39,576,38
+iANO,Dispossession,18 November 2021,3.56,127,70
 Beach House,Once Twice Melody,8 December 2021,3.88,351,58
-200 Stab Wounds,Slave to the Scalpel,12 November 2021,3.50,318,34
-Your Old Droog,Space Bar,29 November 2021,3.47,294,48
-Hyperdontia,Hideous Entity,12 November 2021,3.48,248,34
-Bill Callahan & Bonnie 'Prince' Billy,Blind Date Party,10 December 2021,3.19,102,50
-Fleet Foxes,A Very Lonely Solstice,10 December 2021,3.66,207,38
-You'll Never Get to Heaven,Wave Your Moonlight Hat for the Snowfall Train,19 November 2021,3.37,156,56
-Rhapsody of Fire,Glory for Salvation,26 November 2021,3.36,120,34
-Aeon Station,Observatory,10 December 2021,3.41,140,38
-冥丁 [Meitei],Kofū II / 古風 II,10 December 2021,3.37,100,53
-Makaya McCraven,Deciphering the Message,19 November 2021,3.50,192,34
-Oxbow,Love’s Holiday,2022,-,-,65
-Delta Sleep,Spring Island,12 November 2021,3.46,205,40
-Rosalía,Motomami,2022,-,1,62
-Concrete Winds,Nerve Butcherer,26 November 2021,3.59,166,39
-Body/Dilloway/HeadBody/HeadAaron Dilloway,Body/Dilloway/Head,Body/HeadAaron Dilloway,3.13,126,44
+Your Old Droog,Space Bar,29 November 2021,3.47,298,48
+You'll Never Get to Heaven,Wave Your Moonlight Hat for the Snowfall Train,19 November 2021,3.37,160,56
+Bill Callahan & Bonnie 'Prince' Billy,Blind Date Party,10 December 2021,3.20,104,51
+Fleet Foxes,A Very Lonely Solstice,10 December 2021,3.67,214,38
+冥丁 [Meitei],Kofū II / 古風 II,10 December 2021,3.40,110,53
+Rhapsody of Fire,Glory for Salvation,26 November 2021,3.36,121,34
+Oxbow,Love’s Holiday,2022,-,inf,67
+Aeon Station,Observatory,10 December 2021,3.41,146,38
+Makaya McCraven,Deciphering the Message,19 November 2021,3.50,194,34
+Rosalía,Motomami,2022,-,1,66
+Nas,Magic,24 December 2021,3.82,408,43
+Concrete Winds,Nerve Butcherer,26 November 2021,3.56,174,39
+Body/Dilloway/HeadBody/HeadAaron Dilloway,Body/Dilloway/Head,Body/HeadAaron Dilloway,3.13,128,44
 Mr Twin Sister,Al mundo azul,19 November 2021,3.41,135,38
-Holy Other,Lieve,19 November 2021,3.21,127,38
-Oasis,Knebworth 1996,19 November 2021,4.17,131,22
-Aephanemer,A Dream of Wilderness,19 November 2021,3.55,112,26
-Embryo,Auf auf,19 November 2021,3.65,99,30
-Tierra Whack,Rap?,2 December 2021,2.73,410,25
-Ben LaMar Gay,Open Arms to Open Us,19 November 2021,3.35,140,31
-Thank You Scientist,Plague Accommodations,19 November 2021,3.55,211,31
-Black Label Society,Doom Crew Inc.,26 November 2021,3.22,122,15
-Julie Doiron,I Thought of You,26 November 2021,3.16,139,31
-The Darkness,Motorheart,19 November 2021,3.18,88,16
-Gov't Mule,Heavy Load Blues,12 November 2021,3.44,61,14
-Eternity's End,Embers of War,26 November 2021,3.79,110,32
-Sting,The Bridge,19 November 2021,2.86,126,16
-Cân Bardd,Devoured by the Oak,12 November 2021,3.58,133,24
-Kid Cudi,Entergalactic,2022,-,-,53
-Jeff Parker,Forfolks,10 December 2021,3.32,152,33
-Silent Planet,Iridescent,12 November 2021,3.46,231,20
-The Gathering,Beautiful Distortion,2022,-,-,53
-Korn,Requiem,2022,-,-,52
-Grimes,Book 1,2022,-,-,53
-Art Blakey and The Jazz Messengers,First Flight to Tokyo: The Lost 1961 Recordings,10 December 2021,3.95,55,34
-Standing on the Corner Art Ensemble,"""FUNCTION""",7 December 2021,4.12,22,46
-Nils Frahm,Old Friends New Friends,3 December 2021,3.24,139,33
-Noise Trail Immersion,Curia,26 November 2021,3.46,90,36
-Reveal,Doppelherz,10 December 2021,3.65,86,35
-King Crimson,"Music Is Our Friend: Live in Washington and Albany, 2021",19 November 2021,3.89,88,24
-Unleashed,No Sign of Life,12 November 2021,2.92,113,21
-Maybeshewill,No Feeling Is Final,19 November 2021,3.30,123,25
-Jethro Tull,The Zealot Gene,2022,-,-,48
-Helm,Axis,12 November 2021,3.35,86,32
-Fax Gang,Dataprism,2022,-,-,46
-Roddy Ricch,Live Life Fast,17 December 2021,2.57,441,29
-Juice WRLD,Fighting Demons,10 December 2021,2.25,502,27
-LazyGod x CartierGodLazyGodCartier'GOD,VaporDrip 2,LazyGodCartier'GOD,3.69,160,34
-Endless Boogie,Admonitions,12 November 2021,3.74,52,19
-Cadaveric Fumes,Echoing Chambers of Soul,10 December 2021,3.59,93,29
-Bladee Presenting DJ Billybool & WoesumBladeeDJ BillyboolWoesum,Royal Mix,BladeeDJ BillyboolWoesum,3.54,107,32
-Joni Mitchell,Joni Mitchell Archives - Volume 2: The Reprise Years (1968-1971),12 November 2021,4.07,30,19
-Sijjin,Sumerian Promises,12 November 2021,3.52,129,20
-Dave Gahan & Soulsavers,Imposter,12 November 2021,2.92,113,14
-Varg2™,Siren Call,6 December 2021,3.35,172,28
+Oasis,Knebworth 1996,19 November 2021,4.15,135,22
+Aephanemer,A Dream of Wilderness,19 November 2021,3.55,111,28
+Holy Other,Lieve,19 November 2021,3.21,129,37
+Jeff Parker,Forfolks,10 December 2021,3.33,157,36
+Ben LaMar Gay,Open Arms to Open Us,19 November 2021,3.34,141,31
+Embryo,Auf auf,19 November 2021,3.66,101,30
+Art Blakey and The Jazz Messengers,First Flight to Tokyo: The Lost 1961 Recordings,10 December 2021,3.96,57,35
+Eternity's End,Embers of War,26 November 2021,3.78,117,33
+Thank You Scientist,Plague Accommodations,19 November 2021,3.56,213,31
+Tierra Whack,Rap?,2 December 2021,2.72,413,25
+Black Label Society,Doom Crew Inc.,26 November 2021,3.23,123,14
+Julie Doiron,I Thought of You,26 November 2021,3.15,140,31
+The Darkness,Motorheart,19 November 2021,3.19,90,15
+Kid Cudi,Entergalactic,2022,-,inf,54
+Sting,The Bridge,19 November 2021,2.87,127,16
+Korn,Requiem,2022,-,inf,53
+Standing on the Corner Art Ensemble,"""FUNCTION""",7 December 2021,4.10,25,47
+Nils Frahm,Old Friends New Friends,3 December 2021,3.25,141,34
+The Gathering,Beautiful Distortion,2022,-,inf,53
+Grimes,Book 1,2022,-,inf,53
+Noise Trail Immersion,Curia,26 November 2021,3.46,91,37
+Reveal,Doppelherz,10 December 2021,3.67,88,36
+King Crimson,"Music Is Our Friend: Live in Washington and Albany, 2021",19 November 2021,3.89,91,23
+Cadaveric Fumes,Echoing Chambers of Soul,10 December 2021,3.59,96,32
+LazyGod x CartierGodLazyGodCartier'GOD,VaporDrip 2,LazyGodCartier'GOD,3.68,163,37
+Maybeshewill,No Feeling Is Final,19 November 2021,3.30,126,23
+Jethro Tull,The Zealot Gene,2022,-,inf,48
+Fax Gang,Dataprism,2022,-,inf,46
+Bladee Presenting DJ Billybool & WoesumBladeeDJ BillyboolWoesum,Royal Mix,BladeeDJ BillyboolWoesum,3.55,108,32
+Roddy Ricch,Live Life Fast,17 December 2021,2.57,463,27
+Juice WRLD,Fighting Demons,10 December 2021,2.26,521,26
+Varg2™,Siren Call,6 December 2021,3.35,175,28
 Oneohtrix Point Never,Renditions 1,26 November 2021,2.87,44,41
-Lucki & F1LTHY,Wake Up Lucki,3 December 2021,2.84,481,30
-Me and That Man,"New Man, New Songs, Same Shit, Vol. 2",19 November 2021,2.92,94,12
+Lucki & F1LTHY,Wake Up Lucki,3 December 2021,2.84,487,31
+Sky H1,Azure,3 December 2021,3.32,97,20
+Me and That Man,"New Man, New Songs, Same Shit, Vol. 2",19 November 2021,2.93,94,12
 "Wadada Leo Smith, Jack DeJohnette & Vijay Iyer",A Love Sonnet for Billie Holiday,19 November 2021,3.37,31,30
-Nell Smith & The Flaming Lips,Where the Viaduct Looms,26 November 2021,2.65,115,17
-Rick Ross,Richer Than I Ever Been,10 December 2021,2.81,205,22
-Unanimated,Victory in Blood,3 December 2021,3.43,81,22
-Pi'erre Bourne & TM88,Yo!88,10 December 2021,2.89,219,26
-青葉市子 [Ichiko Aoba] & Albert Karch,"Live at Jazzstate, 04/12/2019",4 December 2021,3.65,82,32
-Sky H1,Azure,3 December 2021,3.32,93,19
-Whoredom Rife,Winds of Wrath,15 November 2021,3.43,69,22
-Aries,"Believe in Me, Who Believes in You",12 November 2021,3.25,277,28
-Creature,Eloge de l'ombre,12 November 2021,3.67,70,21
-Dauþuz,Vom Schwarzen Schmied,12 November 2021,3.55,80,21
-Dean Blunt,Black Metal 2 (Kwake Dubs),10 December 2021,3.39,69,29
-Lock Up,The Dregs of Hades,26 November 2021,3.37,82,21
+Nell Smith & The Flaming Lips,Where the Viaduct Looms,26 November 2021,2.66,116,17
+Rick Ross,Richer Than I Ever Been,10 December 2021,2.81,210,22
+Pi'erre Bourne & TM88,Yo!88,10 December 2021,2.88,226,25
+Dean Blunt,Black Metal 2 (Kwake Dubs),10 December 2021,3.39,72,31
+Unanimated,Victory in Blood,3 December 2021,3.43,82,22
+µ-Ziq & Mrs Jynx,Secret Garden,19 November 2021,3.26,108,27
+Whoredom Rife,Winds of Wrath,15 November 2021,3.44,69,23
+青葉市子 [Ichiko Aoba] & Albert Karch,"Live at Jazzstate, 04/12/2019",4 December 2021,3.64,84,32
+Lock Up,The Dregs of Hades,26 November 2021,3.37,83,22
+Tierra Whack,Pop?,9 December 2021,2.50,281,11
+Riki,Gold,26 November 2021,3.20,87,19
 Brian Wilson,At My Piano,19 November 2021,3.09,90,15
 Girls Rituals,Cow,16 November 2021,3.40,109,29
-Tierra Whack,Pop?,9 December 2021,2.51,276,11
-Riki,Gold,26 November 2021,3.21,83,19
-µ-Ziq & Mrs Jynx,Secret Garden,19 November 2021,3.27,106,25
+Ryuichi Sakamoto,Playing the Piano 12122020,12 December 2021,3.81,47,27
 The Dear Hunter,The Indigo Child,15 November 2021,2.73,116,20
-Ladyhawke,Time Flies,19 November 2021,2.90,62,18
+Green Day,BBC Sessions,10 December 2021,3.82,70,14
+Delroy Edwards,Change the World,3 December 2021,2.87,6,32
+Ladyhawke,Time Flies,19 November 2021,2.91,63,18
 Olivia Block,Innocent Passage in the Territorial Sea,19 November 2021,3.15,52,21
-Janet,Black Diamond,2022,-,-,35
+Janet,Black Diamond,2022,-,inf,35
 Marillion,An Hour Before It's Dark,2022,4.21,2,35
-Green Day,BBC Sessions,10 December 2021,3.81,67,13
-King Buffalo,Acheron,3 December 2021,3.58,58,15
+Alicia Keys,Keys,10 December 2021,3.04,120,21
 Celer,With and Not Without,30 November 2021,3.53,48,27
-Temperance,Diamanti,19 November 2021,3.58,37,15
-Alicia Keys,Keys,10 December 2021,3.04,119,21
+Temperance,Diamanti,19 November 2021,3.58,36,15
+RXK Nephew,Shawty RXK Too 2,11 December 2021,3.84,94,24
+King Buffalo,Acheron,3 December 2021,3.58,60,14
 Pye Corner Audio,Entangled Routes,26 November 2021,3.30,57,17
-The Dodos,Grizzly Peak,12 November 2021,2.96,66,13
-Delroy Edwards,Change the World,3 December 2021,-,-,33
-JACK Quartet,Aggregate Forms,December 2021,3.76,17,30
-The Lurking Fear,"Death, Madness, Horror, Decay",19 November 2021,3.34,61,14
-Dakhma,Blessings of Amurdad,19 November 2021,3.58,70,21
-Jessy Lanza,DJ-Kicks,19 November 2021,3.56,71,26
-Blankenberge,Everything,14 November 2021,3.49,101,13
-Suffocation,Live in North America,12 November 2021,4.08,50,18
-Eric Clapton,The Lady in the Balcony: Lockdown Sessions,12 November 2021,3.38,47,8
-Nick Cave and Warren Ellis,La panthère des neiges,17 December 2021,3.26,54,16
-If I Promise,Where You Built Your Nest,12 December 2021,3.39,108,25
+Blankenberge,Everything,14 November 2021,3.49,101,14
+The Lurking Fear,"Death, Madness, Horror, Decay",19 November 2021,3.34,63,13
+Jessy Lanza,DJ-Kicks,19 November 2021,3.57,72,26
+Nick Cave and Warren Ellis,La panthère des neiges,17 December 2021,3.28,60,15
+Michael Hurley,The Time of the Foxgloves,10 December 2021,3.30,52,23
+Dessiderium,Aria,10 December 2021,3.71,57,14
 JASSS,A World of Service,26 November 2021,2.49,67,23
-Matthew Revert & Vanessa Rossetto,This Is What I Imagine a Day May Be Like,2022,-,-,30
-Coucou Chloe,One,12 December 2021,3.16,131,19
-Michael Hurley,The Time of the Foxgloves,10 December 2021,3.29,51,23
-Imperial Triumphant,An Evening With Imperial Triumphant,26 November 2021,3.82,43,23
-The KVB,Unity,26 November 2021,2.91,78,12
-Malady,Ainavihantaa,10 December 2021,3.75,28,12
+Imperial Triumphant,An Evening With Imperial Triumphant,26 November 2021,3.82,43,24
+Dakhma,Blessings of Amurdad,19 November 2021,3.58,71,20
+Matthew Revert & Vanessa Rossetto,This Is What I Imagine a Day May Be Like,2022,-,inf,30
+Naked Flames,Moonwalking Fingers,13 December 2021,3.82,33,24
+If I Promise,Where You Built Your Nest,12 December 2021,3.39,115,23
+Bekëth Nexëhmü,De Fornas Likgaldrar,12 December 2021,3.94,34,24
+Malady,Ainavihantaa,10 December 2021,3.66,32,13
+The KVB,Unity,26 November 2021,2.93,80,12
+Soup,Visions,19 November 2021,3.64,37,13
+King Gizzard and the Lizard Wizard,Made in Timeland,2022,-,inf,30
+Coucou Chloe,One,12 December 2021,3.16,132,18
 Of Mice & Men,Echo,3 December 2021,3.41,116,16
-Lil Peep & Harry Fraud,High Fashion,3 December 2021,2.77,211,20
-Dold Vorde Ens Navn,Mørkere,12 November 2021,3.41,71,10
-Ars Magna Umbrae,Throne Between Worlds,12 November 2021,3.41,67,12
-Ryuichi Sakamoto,Playing the Piano 12122020,12 December 2021,3.81,44,21
-The Microphones,Live at Le Guess Who? 2021,7 December 2021,3.89,20,26
-Yung Sherman,Stockholm Mix,6 December 2021,3.74,41,23
-Soup,Visions,19 November 2021,3.62,34,13
-The Temple,The Temple,19 November 2021,3.48,87,11
-RXK Nephew & Apartment9,Nephew Robbed Apartment9,19 November 2021,3.69,71,22
-The Antlers,Losing Light,16 November 2021,2.89,97,16
-Cartier'GOD,Water on Mars,13 November 2021,3.48,68,25
-Eucharist,I Am the Void,12 November 2021,-,2,28
-Naked Flames,Moonwalking Fingers,13 December 2021,3.89,25,21
-Big Boi & Sleepy Brown,Big Sleepover,10 December 2021,2.86,83,21
-Dessiderium,Aria,10 December 2021,3.77,55,11
-キリンジ [Kirinji],Crepuscular,8 December 2021,3.55,70,24
-Robin Guthrie,Pearldiving,12 November 2021,3.01,60,19
-Wolfmother,Rock Out,12 November 2021,2.25,78,10
-Material Girl,i85mixx21-22,2022,-,1,27
-The Body & OAA,Enemy of Love,2022,-,-,27
-Tierra Whack,R&B?,16 December 2021,2.78,197,6
+Lil Peep & Harry Fraud,High Fashion,3 December 2021,2.79,213,20
+JACK Quartet,Aggregate Forms,December 2021,3.69,21,27
+The Temple,The Temple,19 November 2021,3.49,88,10
+RXK Nephew & Apartment9,Nephew Robbed Apartment9,19 November 2021,3.69,73,22
+The Body & OAA,Enemy of Love,2022,-,inf,29
+The Microphones,Live at Le Guess Who? 2021,7 December 2021,3.89,21,26
+Yung Sherman,Stockholm Mix,6 December 2021,3.74,42,23
+Dormant Ordeal,The Grand Scheme Of Things,3 December 2021,3.47,67,14
+Cartier'GOD,Water on Mars,13 November 2021,3.47,69,25
+Material Girl,i85mixx21-22,2022,-,1,28
+Tierra Whack,R&B?,16 December 2021,2.77,204,7
+Big Boi & Sleepy Brown,Big Sleepover,10 December 2021,2.87,84,21
 Deutsch Amerikanische Freundschaft,Nur Noch Einer,26 November 2021,2.98,35,20
+The Antlers,Losing Light,16 November 2021,2.90,100,15
+キリンジ [Kirinji],Crepuscular,8 December 2021,3.56,72,23
 Apollo Brown & Stalley,Blacklight,19 November 2021,3.38,70,17
-L.A. Guns,Checkered Past,12 November 2021,3.48,31,5
-Scar Symmetry,The Singularity (Phase II - Xenotaph),2022,-,-,25
-Bekëth Nexëhmü,De Fornas Likgaldrar,12 December 2021,3.89,30,20
-Genocide Pact,Genocide Pact,3 December 2021,3.25,73,14
+Donatachi,donatachi.com,17 November 2021,3.52,108,19
+Scar Symmetry,The Singularity (Phase II - Xenotaph),2022,-,inf,25
+Pyrexia,Gravitas maximus,10 December 2021,3.33,64,16
+Oren Ambarchi,Live Hubris,10 December 2021,3.75,42,20
+Genocide Pact,Genocide Pact,3 December 2021,3.27,76,14
 death's dynamic shroud.wmv,A Quiet Reset,1 December 2021,3.16,40,17
-Donatachi,donatachi.com,17 November 2021,3.52,104,18
-Windows 96,Magic Peaks,12 November 2021,3.27,75,16
-Apostle of Solitude,Until the Darkness Goes,12 November 2021,3.46,52,8
-Rosie Lowe & Duval Timothy,Son,12 November 2021,3.19,89,14
-Pyrexia,Gravitas maximus,10 December 2021,3.32,61,15
-Mydreamfever,"Sprout (Part I, II, III)",4 December 2021,3.49,52,22
-No Rome,It’s All Smiles,3 December 2021,3.10,121,18
-Dormant Ordeal,The Grand Scheme Of Things,3 December 2021,3.44,63,11
-Bladee Presenting Hoxton Mix & Joakim Benon,Club Penguin,26 November 2021,3.33,35,20
-Jedi Mind Tricks,The Funeral and the Raven,19 November 2021,3.19,76,11
+Bladee Presenting Hoxton Mix & Joakim Benon,Club Penguin,26 November 2021,3.33,35,21
+Witches Hammer,Devourer of the Dead,25 December 2021,3.65,33,15
+Mydreamfever,"Sprout (Part I, II, III)",4 December 2021,3.51,53,22
+No Rome,It’s All Smiles,3 December 2021,3.09,123,18
+Conway the Machine,The Missing Bricks,26 November 2021,-,inf,24
+Hedvig Mollestad,Tempest Revisited,19 November 2021,3.51,34,13
+Jedi Mind Tricks,The Funeral and the Raven,19 November 2021,3.15,78,11
 Jessica Moss,Phosphenes,19 November 2021,3.37,48,9
-Leo Nocentelli,Another Side,19 November 2021,3.54,48,14
-NorthTale,Eternal Flame,12 November 2021,3.68,39,8
-King Gizzard and the Lizard Wizard,Made in Timeland,2022,-,-,24
-Witches Hammer,Devourer of the Dead,25 December 2021,3.65,30,14
-RXK Nephew,Shawty RXK Too 2,11 December 2021,3.83,80,18
-Funeral,Praesentialis in aeternum,10 December 2021,3.24,42,15
-Voices,Breaking the Trauma Bond,26 November 2021,3.48,39,13
-Conway the Machine,The Missing Bricks,26 November 2021,-,-,24
-Dolorio & Los Tunantes,...Esas mutancias,26 November 2021,3.55,78,18
+Leo Nocentelli,Another Side,19 November 2021,3.55,50,13
+Jake Muir,Mana,16 November 2021,3.26,57,13
+The Dear Hunter,Antimai,2022,-,inf,23
+Леонид Фёдоров [Leonid Fedorov],Последний друг,16 December 2021,3.37,34,21
+Funeral,Praesentialis in aeternum,10 December 2021,3.27,47,15
+Voices,Breaking the Trauma Bond,26 November 2021,3.45,40,13
+Dolorio & Los Tunantes,...Esas mutancias,26 November 2021,3.54,82,18
 Pathology,The Everlasting Plague,19 November 2021,3.42,58,7
-Hedvig Mollestad,Tempest Revisited,19 November 2021,3.50,31,13
-Jake Muir,Mana,16 November 2021,3.26,55,13
-Darkwoods My Betrothed,Angel of Carnage Unleashed,12 November 2021,3.43,49,8
-Rod Stewart,The Tears of Hercules,12 November 2021,2.24,55,5
-Hollywood Burns,The Age of the Saucers,12 November 2021,3.36,58,6
-The Dear Hunter,Antimai,2022,-,-,22
-Oren Ambarchi,Live Hubris,10 December 2021,3.77,36,19
+Ustalost,Before the Glinting Spell Unvests,17 December 2021,3.65,53,17
+Krolok,Funeral Winds & Crimson Sky,12 December 2021,3.66,32,14
+Auld Ridge,Consanguineous Hymns of Faith and Famine,10 December 2021,3.81,44,15
 Haruka Nakamura,Nujabes Pray Reflections,4 December 2021,3.72,46,19
-Fortress,Don't Spare the Wicked,26 November 2021,3.51,31,10
+Ofermod,Mysterium Iniquitatis,3 December 2021,3.24,49,16
+Victory,Gods of Tomorrow,26 November 2021,3.32,24,2
+Fortress,Don't Spare the Wicked,26 November 2021,3.52,32,10
+Morgul Blade,Fell Sorcery Abounds,26 November 2021,3.49,59,13
 John Zorn,The Ninth Circle,26 November 2021,3.80,7,21
-Sokół,Nic,19 November 2021,3.09,131,8
-"Mandy, Indiana",... EP,19 November 2021,3.26,69,15
+Sokół,Nic,19 November 2021,3.09,132,8
+"Mandy, Indiana",... EP,19 November 2021,3.26,70,15
 Beach Fossils,The Other Side of Life: Piano Ballads,19 November 2021,3.23,65,11
-Lancey Foux,Live.Evil,19 November 2021,3.16,209,16
+Lancey Foux,Live.Evil,19 November 2021,3.16,210,16
 위키미키 [Weki Meki],I Am Me.,18 November 2021,3.34,145,13
-Vomit the Soul,Cold,12 November 2021,3.67,45,9
-Constant Smiles,Paragons,12 November 2021,3.27,46,11
-Batu,I Own Your Energy,12 November 2021,3.35,49,16
-Ustalost,Before the Glinting Spell Unvests,17 December 2021,3.65,49,16
-Леонид Фёдоров [Leonid Fedorov],Последний друг,16 December 2021,3.36,29,20
-Auld Ridge,Consanguineous Hymns of Faith and Famine,10 December 2021,3.81,36,15
-Weedpecker,IV: The Stream of Forgotten Thoughts,3 December 2021,3.21,66,12
+Life,Coma Garden,18 December 2021,3.76,32,17
+Charnel Altar,Abatement of the Sun,17 December 2021,3.26,35,14
+Ifernach,Capitulation of All Life,16 December 2021,3.49,38,15
+Spaceslug,Memorial,10 December 2021,3.36,56,10
+Weedpecker,IV: The Stream of Forgotten Thoughts,3 December 2021,3.24,67,12
 Epica,Omega Alive,3 December 2021,3.91,29,10
+Oxxxymiron,Красота и Уродство,1 December 2021,2.60,248,6
 Squid,Cover Versions,30 November 2021,3.45,7,19
-Victory,Gods of Tomorrow,26 November 2021,3.24,23,2
-Morgul Blade,Fell Sorcery Abounds,26 November 2021,3.49,58,12
-Helmet,Live and Rare,26 November 2021,3.51,22,12
+Hitten,Triumph & Tragedy,26 November 2021,3.40,31,6
+Helmet,Live and Rare,26 November 2021,3.47,24,12
+Eldritch,Eos,19 November 2021,3.28,24,8
+Civerous,Decrepit Flesh Relic,19 November 2021,3.52,60,12
+µ-Ziq,Magic Pony Ride,2022,-,inf,21
+れをる [Reol],The Sixth Sense,15 December 2021,3.41,66,14
+Tor Lundvall,Beautiful Illusions,10 December 2021,3.28,30,10
+Bladee w/ Hannah DiamondBladeeHannah Diamond,Bladee Radio,BladeeHannah Diamond,3.27,21,15
+Pantheist,Closer to God,3 December 2021,3.48,33,14
+工藤礼子 [Reiko Kudo] & 工藤冬里 [Tori Kudo],Tangerine,29 November 2021,3.29,22,14
+Lordi,Lordiversity - Superflytrap,26 November 2021,3.20,34,7
+Death Angel,The Bastard Tracks,26 November 2021,3.50,16,9
+Kill Bill: The Rapper,Snowglobe Theory,26 November 2021,3.19,165,10
+Encenathrakh,Studio Album,21 November 2021,3.78,31,16
+Donato Dozzy,124,19 November 2021,3.16,35,15
+Weakened Friends,Quitter,19 November 2021,3.19,43,6
+Deap Vally,Marriage,19 November 2021,3.13,52,7
+Asa Tone,Live at New Forms,18 November 2021,3.43,41,17
+Kylie,DISCO (Extended Mixes),10 December 2021,4.06,67,13
+Lil Pump & Ronny J,Lil Pump 1.5,10 December 2021,1.97,147,14
+Current 93,Why Can’t We All Just Walk Away?,December 2021,-,inf,20
+EVERGLOW,Return of the Girl,1 December 2021,3.21,173,9
+Aerosmith,1971: The Road Starts Hear,26 November 2021,3.65,7,8
+The Chisel,Retaliation,26 November 2021,3.53,46,10
+Otto A Totland,Companion,26 November 2021,3.53,21,12
+Sutcliffe No More,Domestic,22 November 2021,4.50,1,19
+ADX,Étranges visions,19 November 2021,3.60,15,6
+Orelsan,Civilisation,19 November 2021,2.83,108,8
+Grim,Totem Song,19 November 2021,3.22,24,17
+Claire Rousay,Everything Perfect Is Already Here,2022,-,inf,19
+Ride for Revenge,Feed the Infamy,21 December 2021,3.74,31,13
+Luigi Tozzi,Deep Blue: Volume 3,19 December 2021,3.41,25,14
+Spidergawd,VI,10 December 2021,3.48,30,4
+Tzusing,Next Life,7 December 2021,3.39,23,14
+Wicca Phase Springs Eternal / Pillars of Ivory,Wicca Phase Springs Eternal / Pillars of Ivory,6 December 2021,3.15,37,10
+Polo G,Hall of Fame 2.0,3 December 2021,2.78,177,9
+Little Feat,"Electrif Lycanthrope: Live at Ultra-Sonic Studios, 1974",26 November 2021,4.38,14,7
+Trees Speak,Vertigo of Flaws: Emancipation of the Dissonance and Temperaments in Irrational Waveforms,26 November 2021,3.72,18,5
+Internazionale,Vestiges of Nature,25 November 2021,3.24,30,14
+Defcee & Messiah Musik,Trapdoor,23 November 2021,3.58,47,13
+Resina,Speechless,19 November 2021,3.52,46,14
+Willie Nelson,The Willie Nelson Family,19 November 2021,2.96,37,7
+Parris,Soaked in Indigo Moonlight,19 November 2021,3.02,63,10
+Accordo dei Contrari,Ur,19 November 2021,3.90,6,13
+LF58,Live at Brancaleone,19 November 2021,3.56,24,16
+Jonny Greenwood,The Power of the Dog,17 November 2021,3.52,83,13
+Katie Dey,Forever Music,2022,-,inf,17
+Kły,Cienie,21 December 2021,3.41,17,9
+Diamondsonmydick & Cartier'GOD,Digital Drip 2,18 December 2021,2.99,28,12
+Kanye West / Drake,Free Larry Hoover Benefit Concert,10 December 2021,4.08,94,13
+Eli Keszler,The Scary of Sixty-First,3 December 2021,2.83,20,15
+Shedfromthebody,To Hold the Ripened Sun,1 December 2021,3.66,41,9
+Cecil Taylor,Music From Two Continents,30 November 2021,4.00,9,13
+Imperialist,Zenith,26 November 2021,3.21,34,7
+The Ocean Collective,Phanerozoic Live,26 November 2021,3.97,25,13
+Badsista,Gueto Elegance,26 November 2021,3.39,72,13
+Scowl,How Flowers Grow,19 November 2021,3.18,50,10
+Volumes,Happier?,19 November 2021,3.15,91,5
+Cassandra Jenkins,(An Overview On) An Overview on Phenomenal Nature,19 November 2021,3.37,54,10
+Juliette Armanet,Brûler le feu,19 November 2021,3.28,40,6
+Fred Again..,Actual Life 2 (February 22 - October 15 2021),19 November 2021,3.45,105,11
+Alewya,Panther in Mode,19 November 2021,3.56,51,10
+Soleá Morente,Aurora y Enrique,19 November 2021,3.62,50,12
+Pagan Altar,The Story of Pagan Altar,20 December 2021,3.75,5,11
+Moses Sumney,Live From Blacklachia,10 December 2021,3.70,45,14
+Russ,Chomp 2,8 December 2021,2.58,109,9
+Demilich,Vanishing Sessions,7 December 2021,3.68,16,14
+Doodswens,Lichtvrees,3 December 2021,3.27,37,6
+Mario Batković,Introspectio,3 December 2021,3.61,33,8
+Gåte,Nord,3 December 2021,3.57,14,10
+Garfo,Oração ao cadáver desconhecido,2 December 2021,3.68,44,10
+Fleeting Joys,All Lost Eyes and Glitter,27 November 2021,3.37,60,11
+Imminence,Heaven in Hiding,26 November 2021,3.41,74,8
+Sion,Sion,26 November 2021,3.23,82,7
+Lordi,Lordiversity,26 November 2021,3.72,8,5
+Zmarłym,Druga Fala,21 November 2021,2.97,62,4
+DJ Muggs,Winter 2,19 November 2021,2.98,62,7
+Ur New Favorite War Criminals,Full Life Consequences,19 November 2021,3.35,46,13
+Wadada Leo Smith's Great Lakes Quartet,The Chicago Symphonies,19 November 2021,3.32,15,15
+Vylet Pony,Can Opener's Notebook: Fish Whisperer,January 2022,-,1,16
+Curren$y,Pilot Talk 4,24 December 2021,3.14,39,14
+"John Dwyer, Ryan Sawyer, Greg Coates, Wilder Zoby & Andres Renteria",Gong Splat,17 December 2021,3.29,41,8
+Kitten,Personal Hotspots,10 December 2021,3.19,43,9
+Hands of Despair,The Crimson Boughs and Other Short Tales,3 December 2021,3.65,21,4
+Current 93,The Long Shadow Falls,December 2021,-,inf,16
+Traumprinz,To All Lovers,1 December 2021,3.68,20,12
+Ghouljaboy,Dreamcore,26 November 2021,3.50,42,14
+SHERELLE,fabric Presents,26 November 2021,3.64,26,12
+Tangerine Dream,Probe 6-8,26 November 2021,3.31,28,5
+Bones & Lyson,Scraps,26 November 2021,2.55,94,9
+Elysia Crampton Chuquimia,Live in Munich,20 November 2021,3.78,26,11
+Traitrs,Horses in the Abattoir,19 November 2021,3.33,41,8
+Carly Rae Jepsen,Carly's Christmas Classics,19 November 2021,2.55,50,13
+Deadbeat & Om Unit,"Root, Stalk, Leaf and Bloom",19 November 2021,3.30,18,11
+Mentor,"Wolves, Wraiths and Witches",17 November 2021,3.51,33,8
+Strawberry Hospital,Data.viscera,2 January 2022,-,inf,15
+Greg Puciato,Mirrorcell,2022,5.00,1,15
+Cities Aviv,Man Plays The Horn,2022,-,inf,15
+Rope Sect,Proskynesis,10 December 2021,3.40,35,9
+Elza Soares & João de Aquino,Elza Soares & João de Aquino,10 December 2021,3.62,19,11
+Boris,Japanese Heavy Rock Hits Live -25th Anniversary Show-,3 December 2021,3.89,26,12
+Dillom,Post mortem,1 December 2021,3.32,105,9
+Traumprinz,To All Dreamers,1 December 2021,3.65,23,10
+Alfonso Gómez,Late Works for Piano,December 2021,3.77,3,14
+Opera Diabolicus,Death on a Pale Horse,26 November 2021,3.14,29,4
+Ross Jennings,A Shadow of My Future Self,19 November 2021,3.66,45,6
+Cantique lépreux,Sectes,19 November 2021,3.22,50,11
+Mayday Parade,What It Means to Fall Apart,19 November 2021,3.27,53,8
+Snoop Dogg,Snoop Dogg Presents Algorithm,19 November 2021,2.28,91,11
+Blackhaine,And Salford Falls Apart,19 November 2021,3.49,60,9
+Seatbelts,Cowboy Bebop,19 November 2021,3.15,25,11
+Dev/Null,Microjunglizm,19 November 2021,3.56,28,13
+Wos,Oscuro éxtasis,18 November 2021,3.30,82,5
+Dirty Bird,Virginia Creeper,14 November 2021,3.57,60,12
+Machine+,Variations On...,2022,-,inf,14
+Gábor Lázár,Boundary Object,2022,-,inf,14
+Kavinsky,Reborn,2022,-,inf,14
+Arkhtinn,二度目の災害,11 December 2021,3.79,31,7
+Teen Daze,Interior,10 December 2021,2.90,23,6
+J,my seat and weep,10 December 2021,3.74,29,9
+Worst Party Ever,Dartland,10 December 2021,3.21,48,7
+Lordi,Lordiversity - Abracadaver,10 December 2021,3.31,31,1
+Nicole Atkins,Memphis Ice,10 December 2021,3.21,19,7
+Pink Floyd,"The Screaming Abdabs: Live, Quebec City, 10 Nov 1971",10 December 2021,3.04,13,5
+Bad Gyal,Sound System: The Final Releases,9 December 2021,3.54,62,10
+Yung Beef,Gángster original,3 December 2021,3.28,63,9
+Static Dress,Prologue...,3 December 2021,3.55,57,6
+Sully & Tim ReaperSullyTim Reaper,CRFR001,SullyTim Reaper,3.75,14,10
+J.U.S,Gofundme Corvette,3 December 2021,3.40,25,9
+Traumprinz,To All Dancers,1 December 2021,3.69,14,10
+Paul Gilbert,'Twas,26 November 2021,2.64,18,5
+Èlg,Dans le salon du nous,26 November 2021,3.29,22,8
+Saint Etienne,Her Winter Coat,26 November 2021,3.27,47,5
+Old Nick,Crisp Winter Dawn of My Night Moon,20 November 2021,3.70,42,10
+Abscession,Rot of Ages,19 November 2021,3.18,41,6
+Arovane,Reihen,19 November 2021,3.01,27,10
+Dion,Stomping Ground,19 November 2021,2.71,17,3
+Marracash,"NOI, LORO, GLI ALTRI",19 November 2021,2.60,116,2
+Thy Worshiper,Bajki o staruchu,17 November 2021,3.29,33,6
+Sinéad O'Connor,No Veteran Dies Alone,January 2022,-,inf,13
+Will Wood,In Case I Make It,2022,-,inf,13
+Midnight Oil,Resist,2022,-,inf,13
+Big K.R.I.T.,DRDD,2022,-,inf,13
+DJ Five a.k.a Yung Rimanah,Cold Inferno: Lost Sounds From 2016 (Hosted by DJ Toothpaste),18 December 2021,3.95,9,11
+/f,Youa Re a Content Creator Your Are a Star I Love You Very Much We Make Good Busienss Very Nice I Make You a Good Deal My Friend Lets Talk About the Consent of Reality (Dearest Diary) [...],12 December 2021,3.50,9,8
+Beverly Glenn-Copeland,Keyboard Fantasies Reimagined,10 December 2021,3.61,21,9
+Horace Tapscott,Tapscott + Winds,10 December 2021,-,inf,13
+Marissa Paternoster,Peace Meter,3 December 2021,2.91,26,5
+Ashbreather,"“Ow, My Eye”",3 December 2021,3.74,48,8
+Redemptor,Agonia,3 December 2021,3.49,32,4
+The Physics House Band,Incident on 3rd,3 December 2021,3.36,37,7
+Mike Shinoda,Ziggurats,3 December 2021,3.13,43,6
+Filmmaker,Screening Plexus,3 December 2021,3.43,27,9
+Skullflower,A Crispy Void,3 December 2021,3.26,11,10
+Traumprinz,To All Believers,1 December 2021,3.46,15,10
+Voidsphere,To Overtake | To Overcome,December 2021,3.62,30,7
+카이 [Kai],Peaches,30 November 2021,3.24,132,4
+HFMC,We Are the Truth,26 November 2021,3.42,19,3
+Hunters Moon,The Great Pandemonium,26 November 2021,3.58,28,6
+Abdullah Ibrahim,Solotude,26 November 2021,3.57,13,7
+NiziU,U,24 November 2021,3.03,46,6
+Paul Wardingham,Cybergenesis,19 November 2021,3.65,18,6
+Jessy Lanza,DJ Kicks: Jessy Lanza (Exclusives),19 November 2021,3.25,26,7
+JACK Quartet / Bearthoven / andPlay / Erik Behr / Hannah Lash / Hannah Levinson,Bell Threads,19 November 2021,2.80,7,13
+Armand Hammer,DJ Mo Niklz presents They Who Control the Weather,19 November 2021,3.50,11,9
+Dead Can Dance,"Live From Auditori Forum, Barcelona, Spain. March 22nd, 2005",19 November 2021,3.59,8,9
+Lil Uzi Vert,The Real Uzi 2,2022,5.00,1,12
+Disma,Earthendium,2022,-,inf,12
+The Alchemist,Cycles,24 December 2021,2.96,42,9
+nosgov,Nieszczere Przeprosiny,20 December 2021,3.58,34,11
+RXK Nephew,Transporter 4,19 December 2021,3.51,30,7
+Celestial Sword / Trhä,Edënohhdlha hálgra tu majtranlh'ha / Ga nëcëcta mon idlhi,12 December 2021,3.28,35,7
+Black Cilice,Tomb Emanations,10 December 2021,4.00,3,10
+The Residents,Duck Stab! Alive!,10 December 2021,3.25,31,8
+Canibus,Kaiju,10 December 2021,2.75,22,6
+Mulla,Don't Cry My Africa,9 December 2021,2.50,15,5
+iANO,Outside The Middle,6 December 2021,3.39,30,8
+New Found Glory,December's Here,3 December 2021,2.55,11,8
+Tom Morello,The Atlas Underground Flood,3 December 2021,2.15,31,3
+Khalid,Scenic Drive,3 December 2021,2.73,136,8
+Brent Faiyaz,Wasteland,3 December 2021,-,inf,12
+Jerman/BarnesJeph JermanTim Barnes,Hiss Lift,Jeph JermanTim Barnes,2.99,11,9
+Slimesito,Life of a Slime,2 December 2021,3.51,31,9
+Tory Lanez,Alone At Prom,1 December 2021,2.45,147,8
+Curren$y,Land Air Sea,29 November 2021,3.03,40,9
+Lindy-Fay Hella & Dei Farne,Hildring,26 November 2021,3.21,21,6
+Spectacular Diagnostics,Ancient Methods,26 November 2021,3.54,29,6
+martinou,Rift,26 November 2021,3.69,36,8
+Brian Wilson,Brian Wilson: Long Promised Road,26 November 2021,3.35,26,1
+The Jimi Hendrix Experience,Paris 67,26 November 2021,4.48,6,6
+My Disco,Alter Schwede,25 November 2021,3.05,14,6
+Münchener Kammerorchester / Clemens Schuldt,Streichermusik 1; Drei Klangreden / ... fast erstarrte Unruhe ... 2; Ensemblekonzert II,25 November 2021,-,inf,12
+Oxhy,Rights of Spring,25 November 2021,3.25,41,11
+Lord Jah-Monte Ogbon,Beautifully Black,24 November 2021,3.26,86,8
+横山博 [Hiroshi Yokoyama],For Bunita Marcus (2020 Live),23 November 2021,3.74,9,7
+Galaxy,On the Shore of Life,19 November 2021,3.35,26,2
+Charles Rumback,Seven Bridges,19 November 2021,3.33,17,9
+William Ryan Fritch,Built Upon a Fearful Void,19 November 2021,3.58,30,9
+Colin Blunstone,That Same Year,19 November 2021,3.87,5,8
+ASC,Defiance,19 November 2021,3.28,12,8
+Tyrannic,Mortuus Decadence,19 November 2021,3.20,34,7
+K.Flay,Outside Voices,19 November 2021,3.06,29,7
+Ghost Rhythms,Spectral Music,19 November 2021,3.89,9,5
+Eye Flys,Exigent Circumstance,19 November 2021,3.47,31,6
+Rezz,Spiral,19 November 2021,3.11,57,8
+IAMX,Machinate,19 November 2021,2.41,44,8
+Cara Neir,Pain Gel of Purification,19 November 2021,3.35,30,6
+Tia Maria Produções,Angústia nos corações da tia,15 November 2021,3.56,14,10
+카코포니 [cacophony],Reborn,13 November 2021,3.53,43,9
+Ariel Pink's Darkside,The Key of Joy is Disobedience,31 December 2021,-,inf,11
+Memory Garden,1349,17 December 2021,2.95,13,7
+geronimostilton,Impending Ghosts,17 December 2021,3.80,24,8
+Fripp & Eno,Live in Paris 28.05.1975,17 December 2021,3.72,14,7
+Taku Sugimoto,Hum (2002) δ / ε / ο,15 December 2021,3.04,4,9
+Calva Louise,Euphoric,12 December 2021,2.77,23,2
+Madmess,Rebirth,10 December 2021,3.28,13,2
+Otargos,Fleshborer Soulflayer,10 December 2021,3.23,17,5
+MadeinTYO & UnoTheActivist,Yokohama,10 December 2021,3.15,76,6
+Nekromant,Temple of Haal,3 December 2021,3.46,14,5
+Flee Lord & Tiona Deniece,Mask & Glove,3 December 2021,2.85,25,7
+Blue Rodeo,Many a Mile,3 December 2021,3.07,13,1
+Casper McFadden,Medicalmechanica,3 December 2021,3.60,39,8
+Jim O'Rourke,Steamroom 57,3 December 2021,3.64,16,11
+Alice Phoebe Lou,Child's Play,2 December 2021,3.08,58,4
+Yoasobi,The Book 2,1 December 2021,3.17,57,4
+Acid Souljah,Thank You Acid Souljah 2,30 November 2021,3.52,42,7
+Benoît Pioulard,Bloodless,29 November 2021,3.24,13,7
+Resolve,Between Me and the Machine,26 November 2021,3.85,15,5
+Eternal Evil,The Warriors Awakening Brings the Unholy Slaughter,26 November 2021,3.29,22,4
+Goatcraft,Sic Transit Gloria Mundi,26 November 2021,3.28,14,6
+Bby Goyard & David Shawty,Guardian Ghosts,26 November 2021,2.88,39,9
+Pipe-eye,Dream Themes,26 November 2021,3.26,31,4
+Career Crooks,Never at Peace,26 November 2021,3.72,20,3
+Hässlig,Guillotine,26 November 2021,3.17,23,3
+E-Saggila / Exploited Body,E-Saggila / Exploited Body,25 November 2021,2.90,11,9
+Эдуард Артемьев [Eduard Artemyev],Неизданное,25 November 2021,3.61,11,9
+Hemelbestormer,Collide & Merge,19 November 2021,3.29,17,4
+Modern Nature,Island of Noise,19 November 2021,3.65,4,10
+Abraded,Abraded,19 November 2021,3.01,45,5
+Noize MC,Выход в город,19 November 2021,3.34,55,4
+Max B,Negro Spirituals,19 November 2021,2.91,32,7
+Old Saw,Country Tropics,19 November 2021,3.76,18,8
+Jah Wobble,Metal Box: Rebuilt in Dub,19 November 2021,3.81,15,6
+エイプリルブルー [AprilBlue],いつかの海,17 November 2021,3.60,17,10
+Flora Yin-Wong,The Sacrifice,16 November 2021,3.17,30,7
+Bestial Invasion,The Divine Comedy: Inferno,14 November 2021,3.45,23,5
+Cherokee,Blood & Gold,13 November 2021,3.42,6,7
+Yeat,Alive,January 2022,-,inf,10
+Coco Bryce,Wuthering Heights EP,24 December 2021,3.35,16,8
+Lacrimosa,Leidenschaft,24 December 2021,3.00,9,7
+Trhä,Inagape,24 December 2021,3.52,19,6
+Prolaps,Ultra Cycle Pt. 4: Hibernal Death,21 December 2021,4.10,11,7
+Dominic Coles,Everyone Thinks Their Dreams Are Interesting,20 December 2021,4.50,2,10
+Mega Colossus,Riptime,17 December 2021,3.69,21,4
+Mire,A New Found Rain,17 December 2021,3.41,13,5
+Rookie Card,We Chose to Go to the Moon,17 December 2021,3.50,21,8
+osquinn,The Worst Album You've Ever Heard / Renovation Tapes,15 December 2021,5.00,1,10
+Revenant Marquis,Cyflymiad O'r Holl Arferion Ocwlt,15 December 2021,2.91,16,6
+The Murder of My Sweet,A Gentleman's Legacy,10 December 2021,2.56,10,4
+Stabbing,Ravenous Psychotic Onslaught,10 December 2021,3.55,25,6
+Guè Pequeno,Gvezvs,10 December 2021,2.62,44,2
+"Wiz Khalifa, Cardo & Sledgren",Wiz Got Wings,10 December 2021,2.56,32,6
+Hilary Woods,Feral Hymns,3 December 2021,3.13,26,7
+al.divino,Two Nights in Marrakesh,3 December 2021,3.19,40,6
+Bruce Springsteen E Street BandBruce SpringsteenE Street Band,"Nassau Coliseum, Dec 28, 1980",Bruce SpringsteenE Street Band,4.20,6,3
+cignature,Dear Diary Moment,30 November 2021,2.91,65,5
+Patricia Taxxon,Xanthan Gun,30 November 2021,2.93,31,6
+Atsushi Sakai / Christophe Rousset / Marion Martineau,"Pièces de Viole, Livre I",26 November 2021,3.39,7,8
+ORF Vienna Radio Symphony Orchestra / Wiener Singakademie / Marin Alsop / Ausrine Stundyte / Renée Morloc / Annette Schönmüller / Caroline Baas / Enzo Brumm,Symphony 'Mathis der Maler'; Nusch-Nuschi-Tänze; Sancta Susanna,26 November 2021,2.50,5,9
+Inherits the Void,Monolith of Light,26 November 2021,3.46,18,3
+Paco Amoroso,SAETA,25 November 2021,3.42,76,7
+Emmanuel,Force of Nature,25 November 2021,3.25,9,7
+saziBd,Prelude to the saziBd Album,25 November 2021,4.50,2,9
+Nekrovault,Nachhut: Toward the Towering Tomb,24 November 2021,3.40,25,5
+bvdub,Measures of a Greater Mercy,21 November 2021,2.93,20,6
+Vacuum Quartet,String Quartet Series: Alexey Sysoev,20 November 2021,3.53,21,8
+E-Force,Mindbender,19 November 2021,3.43,8,2
+Quatuor Diotima,"Gervasoni, Pesson, Poppe",19 November 2021,3.21,7,7
+Fine Place,This New Heaven,19 November 2021,2.92,23,2
+Astromeda,Moonsea,19 November 2021,3.56,21,7
+Mchy i Porosty,Postapoland,14 November 2021,3.20,16,7
+Urdôl Ur,Seven Portals to the Arcane Realms,13 November 2021,3.44,33,4
+Vio-Lence,Let the World Burn,2022,-,inf,9
+Dance Gavin Dance,DGD LP10,2022,-,inf,8
+Nanoray,Digimaiden,1 January 2022,-,inf,9
+Anthony1,!!!,24 December 2021,3.09,15,8
+Mörser,Thank You for Leaving,17 December 2021,3.59,8,7
+Bookhouse,Eferwad y Tonnau Gwyn,16 December 2021,3.28,11,7
+NCT,Universe,14 December 2021,3.03,104,5
+"John Russell, John Butcher & Dominic Lash",But Everything Now Left Before It Arrived,12 December 2021,3.50,3,7
+Restless Spirit,Blood of the Old Gods,10 December 2021,3.53,21,3
+Lhaäd,Below,10 December 2021,3.42,21,3
+Rage of Light,Redemption,8 December 2021,3.01,10,3
+Hecker,Syn As Tex [AC],6 December 2021,4.73,2,9
+Drakeo the Ruler,So Cold I Do Em 2,6 December 2021,3.00,23,6
+Arctic Plateau,Songs of Shame,3 December 2021,3.07,21,4
+Lethian Dreams,Last Echoes of Silence,3 December 2021,3.52,26,5
+Bola Sete,Samba in Seattle: Live at the Penthouse (1966-1968),3 December 2021,-,inf,8
+Desired,FRESH,3 December 2021,3.35,30,5
+Current Value,Runway,3 December 2021,3.55,11,6
+Styles P & Havoc,Wreckage Manner,3 December 2021,2.85,47,4
+Tatsuya Yoshida & Risa Takeda,Crête de sable,3 December 2021,3.73,6,4
+Rodeoglo,Outworld,3 December 2021,3.39,29,7
+Roscoe Holcomb,The Old Church,3 December 2021,3.96,4,6
+Darkestrah,Chong-Aryk,2 December 2021,3.27,19,8
+Plural Ensemble / Fabián Panisello / David Moliner,Physical Sound,2 December 2021,-,inf,9
+Délétère / Sarkrista,Opus Blasphematum,2 December 2021,3.45,25,5
+Tomutonttu,Hoshi,2 December 2021,3.53,7,6
+Richard Skelton,A Guidonian Hand,29 November 2021,3.67,7,4
+Three Berry Icecream,Three Berry Icecream,27 November 2021,-,inf,9
+Vetusta Morla,Cable a tierra,26 November 2021,3.10,33,2
+Hollow,Tower,26 November 2021,3.23,9,5
+Titan,Palingenesia,26 November 2021,3.91,5,2
+Alizzz,Tiene que haber algo más,26 November 2021,3.32,70,5
+Crimeapple,Sancocho,26 November 2021,2.98,33,3
+Hodge & Simo Cell,Drums From the West EP,26 November 2021,3.38,25,5
+Hampshire & Foat,The Upturned Glass,26 November 2021,3.25,15,8
+Smith / KotzenAdrian SmithRichie Kotzen,Better Days EP,Adrian SmithRichie Kotzen,3.45,10,3
+ten56.,Downer Part 1,25 November 2021,3.30,29,4
+TWRP,New & Improved,25 November 2021,3.23,49,3
+Hope Drone,Husk,20 November 2021,3.44,26,3
+Skillet,Dominion,19 November 2021,1.44,5,9
+Noveliss & Dixon Hill,Book of Changes,19 November 2021,3.44,28,4
+Ten Typ Mes,Hello Baby,19 November 2021,2.66,60,4
+Allison Lorenzen,Tender,19 November 2021,3.77,14,4
+Dry Cleaning,Tascam Tapes,16 November 2021,3.61,5,6
+Oxxxymiron,miXXXtape III: Смутное Время,14 November 2021,2.24,112,3
+Хаски [Haski],Русский альбом,2022,-,inf,8
+Logic,College Park,2022,-,inf,8
+nxac.cd,Yuuko in Hell,1 January 2022,4.00,1,8
+Park Zero,Proxy,1 January 2022,4.50,1,8
+ITZY,It'z ITZY,22 December 2021,3.70,14,6
+Trippie Redd,Hate Is Dead,20 December 2021,3.00,47,7
+Johnny Marr,Fever Dreams Pt. 2,17 December 2021,3.31,18,3
+Klabautamann,Numbered,16 December 2021,3.79,6,6
+Viagra Boys,Shrimp Sessions 2,16 December 2021,3.98,22,6
+Mavorim,Non omnis moriar,12 December 2021,3.58,7,4
+Caestus,The Undoer's Key,12 December 2021,3.21,13,1
+Brighter Death Now,All Too Bad - Bad To All,12 December 2021,3.42,14,5
+Chouchou & Orcaorca,最果のダリア (Saihate no Dahlia),11 December 2021,3.73,20,5
+"Jan Bang, David Toop & Mark Wastell","Compound Full of Bones, Translucent Thousands",11 December 2021,3.00,4,8
+Maladie,The Sick Is Dead - Long Live the Sick,10 December 2021,3.35,17,3
+Noxis / Cavern Womb,Communion of Corrupted Minds,10 December 2021,3.70,15,6
+GLARE,Heavenly,10 December 2021,3.71,29,7
+Nate Wooley,stem-flower-root,10 December 2021,3.67,7,7
+Nosdam + RayonOdd NosdamRayon,From Nowhere to North,Odd NosdamRayon,3.40,12,7
+Hundredth,Welcome to Somewhere Nowhere,10 December 2021,1.83,4,6
+Arv & Miljö,Ensam är nattens rymd över vita vägar,10 December 2021,3.21,9,6
+Pink Floyd,"Amsterdamse Bos, Free Concert, Live, 26 June 1971",10 December 2021,2.95,11,4
+Sharda,High Tide,8 December 2021,3.55,18,6
+Nuit noire,Fäerie Über Alles,6 December 2021,3.01,4,7
+EERA,Speak,3 December 2021,3.08,17,3
+Matthew Halsall,Salute to the Sun - Live at Hallé St. Peter's,3 December 2021,3.69,11,6
+The Browning,End of Existence,3 December 2021,3.17,43,3
+Robertinho Silva & Alexandre Ito,Nascimento das canções,3 December 2021,3.50,1,8
+Ian Wellman,"On the Darkest Day, You Took My Hand and Swore It Will Be Okay",3 December 2021,3.05,9,7
+Abiotic,A Universal Plague: Mutation,3 December 2021,3.27,24,2
+Roland Kayn,An Algorithm MA 71,3 December 2021,3.21,8,6
+General Surgery,A Legendary Death,3 December 2021,2.99,9,6
+Robin Guthrie,Riviera,3 December 2021,3.32,16,2
+Ossuaire,Triumvirat,2 December 2021,3.59,14,4
+Anima & Malibu,United in Flames 1st December 2021,2 December 2021,4.00,10,8
+K$upreme & Shawny Binladen,Supreme Wick Sharks,2 December 2021,3.28,26,6
+Mariusz Duda,Interior Drawings,December 2021,3.60,6,4
+Mateus Aleluia,Afrocanto das nações,30 November 2021,3.65,24,7
+Joshua Idehen & Daedelus,Holy Water Over Sons,26 November 2021,2.93,16,5
+Crawlspacer,Crawlspacer,26 November 2021,3.50,8,7
+Şam,P.İ.Ç,26 November 2021,3.59,140,6
+Wide Eyes,Oneironaut,26 November 2021,3.61,14,1
+ist ist,The Art of Lying,26 November 2021,3.09,12,2
+Krvna,Sempinfernus,26 November 2021,3.28,15,5
+Thyrathen,ThanatOpsis,26 November 2021,3.55,27,3
+Cerebral Incubation,Fermented Cranial Inebriating Fluids,25 November 2021,3.45,25,3
+Duki,Temporada de reggaetón,25 November 2021,2.77,45,6
+Dave Bainbridge,To the Far Away,23 November 2021,3.24,8,3
+Wilco,Live at Capitol Theater 2014,22 November 2021,-,inf,7
+Martial Barrage,Agents of the Wolf Age,22 November 2021,3.25,13,4
+Local Natives,Music From the Pen Gala 1983,20 November 2021,2.97,15,-
+Theatres des Vampires,In Nomine Sanguinis,19 November 2021,2.67,17,4
+W.E.B.,Colosseum,19 November 2021,3.07,10,2
+Gonemage,Sudden Deluge,19 November 2021,3.14,33,4
+BT,Metaversal,19 November 2021,3.02,35,4
+Secret Webcam Girl,Digital Gaia,19 November 2021,3.69,13,7
+Nolanberollin,ɴᴀᴘᴀʟᴍ_ᴠɪʀᴛᴜᴀʟɢᴏ!,19 November 2021,3.50,23,6
+O.S.S. & The Orb,Enter the Kettle,19 November 2021,3.39,21,5
+Pedro,後日改めて伺います,17 November 2021,3.62,16,6
+Chip Tanaka,Domani,17 November 2021,3.34,7,7
+Objekt,All Night @ Nowadays NYC,17 November 2021,3.50,2,7
+Черноплодь [Chernoplod'],СУЕ,16 November 2021,3.19,15,3
+Deaf Club,Productive Disruption,6 January 2022,3.50,1,6
+Kep1er,First Impact,3 January 2022,-,inf,7
+Grave Infestation,Persecution of the Living,2022,-,inf,7
+Impending Doom,Hellbent,January 2022,3.24,38,3
+Todd Rundgren,Space Force,2022,-,inf,7
+Witchery,Twilight Supertzar,2022,-,inf,7
+Neurotech,Symphonies II,2022,-,inf,7
+Wombbath,Agma,31 December 2021,2.00,2,6
+Mütterlein,Bring Down the Flags,30 December 2021,4.00,2,4
+Deerhoof,Devil Kids,21 December 2021,4.00,7,5
+Katie Eikam / Kevin Good,John Muir Trails,19 December 2021,-,inf,7
+Iron Fate,Crimson Messiah,17 December 2021,3.00,5,2
+Wicked Sensation,Outbreak,17 December 2021,3.00,4,2
+Morbific,Promo '21,15 December 2021,3.27,15,6
+Celer,Cascade; or a Mass of Severe Stages,12 December 2021,3.73,8,5
+Siamese,Home,10 December 2021,3.24,19,3
+Intricated,Apocalyptic Metamorphosis,10 December 2021,3.45,13,2
+Saáadon,мреть (наутро ночь),10 December 2021,3.71,7,5
+Rapoon,:Cinema telephonique:,10 December 2021,-,inf,7
+Eminenz,Diabolical Warfare,10 December 2021,2.60,6,3
+Manapool,ZODIAC CORE: OPTIMIZED EMOTIONAL STABILITY CONSTRUCT,10 December 2021,4.07,13,6
+U2,I Belive in Father Christmas EP,10 December 2021,3.11,25,4
+Little Boy Velvet,LBV25,9 December 2021,3.01,9,5
+Rid of Me,Traveling,3 December 2021,3.28,27,4
+Cepheide,Les échappées,3 December 2021,3.42,21,2
+Hypno5e,A Distant Dark Source Experience,3 December 2021,3.00,4,5
+Under the Church,Total Burial,3 December 2021,3.52,17,4
+Coronatus,Atmosphere,3 December 2021,3.06,5,2
+"Paul Weller, Jules Buckley & BBC Symphony Orchestra",An Orchestrated Songbook,3 December 2021,3.01,13,3
+Sansibar,Sans musique,3 December 2021,3.25,14,5
+Recovery Girl,Nausea Pop Vol 1,3 December 2021,3.36,40,6
+Artykuły Rolne,Porno,3 December 2021,3.68,19,3
+Custard,Imperium rapax,3 December 2021,3.12,8,2
+Cleaners From Venus,Christabel's Party,3 December 2021,3.18,11,4
+"Eva-Maria Houben, Ernesto Rodrigues, Guilherme Rodrigues & Carlos Santos",Falling Into Wide Spaces,3 December 2021,2.75,4,4
+DJ Atari Jaguar,baker's dozen i /// fly low beats,3 December 2021,3.60,6,5
+Skylar Spence,Alive 2021,3 December 2021,4.14,13,3
+Wiener Philharmoniker / Christian Thielemann / Elīna Garanča,Live from Salzburg,3 December 2021,3.12,6,5
+Andy Morin,NOF2 USB,3 December 2021,3.22,5,3
+Segunda Mordida / Anthony1,Vespucci,3 December 2021,3.41,17,5
+Rosegarden Funeral Party,In the Wake of Fire,3 December 2021,3.80,8,2
+Phace,System Irrelevant,1 December 2021,3.24,13,4
+Clean Slate,434C45414E,1 December 2021,3.54,10,7
+Cadaveric Incubator / Undergang,Cadaveric Incubator / Undergang,1 December 2021,3.55,15,4
+BK,Cidade do pecado,1 December 2021,3.24,43,3
+Mass Hysteria,"Rock Hard DVD Collector Exclusif - Mass Hysteria, 10 ans de Furia",December 2021,-,inf,-
+Sissy Spacek,Radio Format,1 December 2021,3.69,6,6
+The Kings of Frog Island,VII,1 December 2021,3.43,7,4
+Kenji,Edge of the City,30 November 2021,3.67,6,5
+Klimperei,Handpicked,30 November 2021,3.39,10,4
+Hen Ogledd,No Wood Accepted,29 November 2021,2.76,20,3
+Gabi Losoncy,Self Pity and a Lack of Magnanimity,29 November 2021,3.10,10,3
+Buckethead,Thought Pond,27 November 2021,3.24,8,5
+William Doyle,Alternate Lands EP,26 November 2021,3.44,49,6
+Zebrahead,III,26 November 2021,3.24,31,4
+Rufus T. Firefly,El largo mañana,26 November 2021,3.57,27,2
+Variété,Dziki książę,26 November 2021,2.58,12,5
+Ava Mendoza,New Spells,26 November 2021,3.51,14,4
+Anuel AA,Las leyendas nunca mueren,26 November 2021,2.75,65,7
+Government Alpha,Human Error,26 November 2021,3.59,15,4
+Midnight Danger,Nights at Lake Milsen,26 November 2021,3.38,10,4
+Metafive,Metaatem,20 November 2021,-,inf,7
+Riley the Musician,Montana,19 November 2021,3.65,26,4
+Primal Scream,Live at Levitation,19 November 2021,3.71,17,5
+Snake Mountain Revival,Everything in Sight,19 November 2021,3.41,12,1
+Nightland,The Great Nothing,19 November 2021,3.49,9,1
+John Barry,The Tamarind Seed,19 November 2021,3.33,6,3
+Hasaan Ibn Ali,Retrospect in Retirement of Delay: The Solo Recordings,19 November 2021,3.83,7,5
+Red Kite,Apophenian Bliss,19 November 2021,3.61,9,3
+Oasis,Knebworth 1996,19 November 2021,4.50,4,3
+Akiko Haruna,Be Little Me,19 November 2021,3.26,21,5
+Napoleon da Legend & Amerigo Gazaway,The World Changed,19 November 2021,3.06,13,2
+Léonie Pernet,Le cirque de consolation,19 November 2021,3.44,21,2
+London Symphony Orchestra / Jaime Martín,Wind Concertos,19 November 2021,3.05,9,5
+Anberlin,Heavy Lies the Crown,19 November 2021,3.75,5,5
+Jimmy Eat World,Clarity: Phoenix Sessions,17 November 2021,3.77,29,4
+Sharda,Low Tide (Sharda Dubs 2021),17 November 2021,3.95,7,7
+Armywives / To Be Gentle / Alas / Mirin bide,4 Way Split,15 November 2021,3.66,10,4
+Ashley Ninelives,Cheshire Days,January 2022,-,inf,6
+City Light Mosaic,Film,2022,-,inf,6
+Mirror,The Day Bastard Leaders Die,2022,-,inf,6
+Church of Disgust,Weakest Is the Flesh,2022,-,inf,6
+Triumvir Foul,Onslaught to Seraphim,2022,-,inf,6
+Yung Aether,"Kuso AKA Kx $ 0 the Mixtape: ""God of Darkness, breathing clouds in the fantasy landscape, etc.""",22 December 2021,3.68,3,3
+Gareth Davis,In Vivo,20 December 2021,3.50,5,5
+Noisia,The Resonance I,17 December 2021,3.37,22,5
+Pedro LaDroga & $kyhook,Skydrvg 3.0 (Casa de Brujas),15 December 2021,3.77,19,3
+Nodo Gordiano,H.E.X.,15 December 2021,4.00,2,5
+Pabllo Vittar,I AM PABLLO,14 December 2021,4.32,41,6
+Tede,Espeoerte 0121,13 December 2021,2.96,23,2
+Arnaud Rebotini,New Territory,11 December 2021,3.58,8,3
+Cap Outrun,High on Deception,10 December 2021,3.13,8,-
+Monty,Hit The Lights,10 December 2021,3.60,20,4
+Anatomy of Habit,Even If It Takes a Lifetime,10 December 2021,2.51,4,3
+Ace of Hearts,Frozen in Time,10 December 2021,2.74,32,6
+Vahrzaw,The Trembling Voices of Conquered Men,10 December 2021,3.28,17,2
+Gong,Live at Longlaville 27/10/1974,10 December 2021,-,inf,5
+4s4ki,Here or Heaven,10 December 2021,3.50,37,5
+Sorcerer,Reverence,10 December 2021,3.32,12,5
+[ B O L T ] + Aidan Baker[ B O L T ]Aidan Baker,[ B O L T ] + Aidan Baker,[ B O L T ]Aidan Baker,3.51,7,5
+David Watson & Matthew Welch,Woven,10 December 2021,2.65,5,6
+ehiorobo,Joltjacket,10 December 2021,4.03,14,2
+Lilac,Back and Forth,9 December 2021,3.16,8,4
+Phew,In The Waiting Room,8 December 2021,2.77,8,4
+Heiress,Distant Fires,3 December 2021,3.43,16,3
+Lahti Symphony Orchestra / Dima SlobodenioukSinfonia LahtiDima Slobodeniouk,Scenes From the Kalevala,Sinfonia LahtiDima Slobodeniouk,2.87,4,3
+Like Pacific,Control My Sanity,3 December 2021,2.81,25,2
+DJ Harrison,Tales From the Old Dominion,3 December 2021,3.19,15,3
+Eyes Set to Kill,Damna,3 December 2021,3.30,18,2
+波多野敦子 [Atsuko Hatano] & Midori Hirano,Water Ladder,3 December 2021,3.15,8,5
+Berner,Gotti,3 December 2021,2.60,17,3
+Ekin Fil,Feelings,3 December 2021,3.24,18,2
+Mom\$,RAVE SHIT V- THE FINAL OPERATION,3 December 2021,3.13,12,5
+nthng,Earthseed,3 December 2021,3.21,22,4
+Leonard Bernstein & Stephen Sondheim,West Side Story,3 December 2021,3.87,11,3
+Robin Fox,Threnody to Now,3 December 2021,2.63,6,5
+Dream Theater,Lost Not Forgotten Archives: When Dream and Day Reunite,3 December 2021,2.67,7,3
+The Spacelords,Unknown Species,3 December 2021,3.92,8,3
+Emily Robb,How to Moonwalk,3 December 2021,3.31,4,-
+"The Choir of the Carmelite Priory, London / Simon Lloyd","Complete Masses, Volume One",3 December 2021,-,inf,5
+Dani Kiyoko,#GSTARSOULJA*,2 December 2021,3.84,10,5
+いろのみ [Ironomi],4つの夜想曲 (4 Nocturnes),1 December 2021,3.28,2,6
+Princess Diana of Wales,Princess Diana of Wales,29 November 2021,2.88,20,1
+DIM,The Holy Crag,29 November 2021,3.80,19,3
+Melaina Kol,AMOSAT,27 November 2021,3.72,37,5
+El Michels Affair,The Abominable EP,26 November 2021,3.33,17,2
+Waltari,3rd Decade: Anniversary Edition,26 November 2021,2.90,4,2
+Servant,Blessed by the Light of a Thousand Stars,26 November 2021,3.50,10,1
+Kacperczyk,Kryzys wieku wczesnego,26 November 2021,3.30,44,1
+Kaśka Sochacka,Ministory,26 November 2021,3.24,12,1
+L'Homme Statue,Ser,26 November 2021,3.64,10,5
+Orchestre national de France / Cristian Măcelaru / Olivier Latry,Complete Symphonies,26 November 2021,2.75,2,6
+James,The Campfire EP,26 November 2021,2.54,7,2
+Zomby,Chaos Reigns II,26 November 2021,3.13,6,3
+Oscar Peterson,"A Time for Love: The Oscar Peterson Quartet - Live in Helsinki, 1987",26 November 2021,3.86,7,2
+Coro e Orchestra del Teatro La Fenice / Andrea Molino / Carmela Remigio / Veronica Simeoni / Mario Zeffiri / Simone AlberghiniOrchestra del Teatro La FeniceCoro del Teatro La FeniceAndrea MolinoCarmela RemigioVeronica SimeoniMario ZeffiriSimone Alberghini,Requiem,Orchestra del Teatro La FeniceCoro del Teatro La FeniceAndrea MolinoCarmela RemigioVeronica SimeoniMario ZeffiriSimone Alberghini,-,inf,6
+Hayley Mary,Fall in Love,25 November 2021,3.27,14,3
+The Bobfather,Hazard!,24 November 2021,3.98,10,4
+Calibre,Shelflife 7,24 November 2021,3.26,12,5
+Radwimps,Forever Daze,23 November 2021,2.80,21,3
+Krzysztof Zalewski,MTV Unplugged,23 November 2021,3.29,13,2
+Andreas Staier,Das wohltemperierte Klavier: Zweiter Teil,19 November 2021,3.00,3,4
+Quartetto Lyskamm / Trio Debussy / Michele Marelli / Ghenadie Rotari / Simone Beneventi / Emanuele Torquati / Michele Lomuto / Gianluca Cascioli / Bálint Karosi,Musica ritrovata,19 November 2021,-,inf,6
+Ploy,Rayhana,19 November 2021,3.31,25,4
+Bryson Tiller,A Different Christmas,19 November 2021,2.29,88,3
+Nick Frater,Earworms,19 November 2021,3.04,3,-
+Bruce Liu,Winner of the 18th International Fryderyk Chopin Piano Competition Warsaw 2021,19 November 2021,3.97,3,3
+BBY KODIE,Emotions Running High,19 November 2021,3.52,50,5
+Árstíðir,Pendúll,19 November 2021,3.38,11,6
+Chong Wizard,Blessing Season,19 November 2021,2.99,8,1
+Houeida Hedfi,Fleuves de l’âme,19 November 2021,3.27,18,3
+Rowjay,Carnaval de finesse 2: Les chroniques d'un jeune entrepreneur,19 November 2021,3.41,14,4
+Hipgnosis,Valley of the Kings,17 November 2021,3.50,6,1
+Alessandra Leão,Acesa,17 November 2021,3.33,14,4
+D.K.,Gate of Enlightenment,17 November 2021,3.30,7,2
+Máquina Magnética,Máquina Magnética,16 November 2021,3.45,5,4
+Kinoteki,Human Noise,4 January 2022,-,inf,5
+The 1975 & BBC Philharmonic,Live with the BBC Philharmonic Orchestra,2022,-,inf,5
+Czarface,Good Guys Bad Guys EP,January 2022,4.00,1,5
+Vale-Smith,Coruscate,January 2022,-,inf,5
+Young Guv,Guv IV,2022,-,inf,5
+BOKKA,Blood Moon,2022,-,inf,5
+Che Noir,Food for Thought,2022,-,inf,5
+The Bread Scientists,Synestia,1 January 2022,-,inf,5
+Efek Walpurgis,Now Press Elite,1 January 2022,-,inf,5
+Evadne,The Pale Light of Fireflies,24 December 2021,-,1,3
+Elisione,02 PIPEDREAMS,24 December 2021,-,inf,5
+Apollo Bitrate,'s Space Hut,24 December 2021,4.33,4,4
+Shawny Binladen,Merry Wickmas 2,24 December 2021,3.49,8,5
+Hollow Woods,Cold Winds Cleave the Earth,21 December 2021,3.34,7,-
+Hail Conjurer,Sinister,21 December 2021,3.00,7,2
+2003 Toyota Corolla,2013 Toyota Corolla,20 December 2021,3.47,11,5
+Posture & The Grizzly,Posture & The Grizzly,20 December 2021,3.40,11,3
+Franck Vigroux,Atotal,18 December 2021,3.25,3,3
+Chuck Berry,Live From Blueberry Hill,17 December 2021,3.36,7,2
+Consider the Source,Hybrid Vol. 1: Such as a Mule,17 December 2021,3.62,9,4
+XoBrooklynne,My Crown: The Album,17 December 2021,2.09,20,3
+Michael Giacchino,Spider-Man: No Way Home,17 December 2021,3.51,14,2
+Raz Fresco & Dibia$e,Secret Wars,17 December 2021,3.81,7,2
+Jyrki 69,American Vampire,16 December 2021,3.00,4,1
+Ensemble Court-Circuit,Pegah,15 December 2021,-,inf,5
+Wounds of Recollection,Deathbed,15 December 2021,3.40,6,2
+Sound Food Gang,"Foodstation, Vol. 2",15 December 2021,2.52,6,3
+Brogan Johnson,Brogan Johnson vs. The World,12 December 2021,2.67,4,4
+Catacomb,Back to Unknown Kadath,10 December 2021,2.50,2,5
+Monsta X,The Dreaming,10 December 2021,2.90,29,2
+Mcfly & Carlito,Notre Meilleur Album,10 December 2021,0.58,41,5
+Benny Sings,Beat Tape II,10 December 2021,2.93,21,1
+Jeroen van Veen / Sandra van Veen,Canto Ostinato (2 Piano Version),10 December 2021,4.50,1,4
+Those Poor Bastards,Old Time Suffering,10 December 2021,2.91,17,4
+Corey Feldman,Love Left 2.1,10 December 2021,-,inf,5
+Mike Majkowski,Four Pieces,10 December 2021,3.50,3,4
+Noekk,The White Lady,10 December 2021,3.21,8,3
+"Lucie,Too",Fool,8 December 2021,3.30,16,5
+Haircuts for Men,A Path,8 December 2021,2.98,6,4
+Tetsuya Nakayama,Ruins,8 December 2021,3.50,2,4
+AngelMaker,Eclipse,8 December 2021,3.64,12,4
+Ratkiller,A Curious Lack of Limbs,7 December 2021,-,inf,5
+Dronny Darko & Phaedrus,Quasi,7 December 2021,3.07,5,4
+MINO,"""To Infinity.""",7 December 2021,3.03,28,2
+Bruno Duplant & Rutger Zuydervelt,Synchronicité,7 December 2021,3.00,3,4
+大島ミチル [Michiru Oshima] / Pentagon,ICO -Perfect Music Files-,6 December 2021,4.50,3,4
+Đăng Khoa,Khoa đăng,5 December 2021,3.50,10,1
+Theoreme,Les Artisans,4 December 2021,3.17,18,3
+天気予報,Sora,4 December 2021,3.50,1,5
+Nurse With Wound & Bladder Flask,BACKSIDE,4 December 2021,-,inf,5
+Wolftooth,Blood & Iron,3 December 2021,3.30,15,1
+Kavrila,Mor,3 December 2021,3.00,4,-
+Crom,Into the Glory Land,3 December 2021,3.22,7,4
+No Bragging Rights,No Bragging Rights,3 December 2021,3.42,12,1
+Beauty Pill,Instant Night,3 December 2021,2.21,7,3
+Psychoprism,R.I.S.E.,3 December 2021,3.18,5,1
+Interplanetary Criminal,Ruff EP,3 December 2021,3.35,12,5
+Modder,Modder,3 December 2021,3.56,13,2
+"钱赓 [Qian Geng], Anton Kaun & 王子衡 [Wang Ziheng]",Krakatoa,3 December 2021,-,inf,5
+Camerata Zürich,On an Overgrown Path,3 December 2021,2.87,4,3
+James Ehnes,Sonatas and Partitas for Solo Violin,3 December 2021,3.33,3,4
+"DJ Smokey, Soudiere & NxxxxxS",Trip Thru Hell,3 December 2021,2.90,19,5
+Haiyti,Speed Date,3 December 2021,3.54,18,1
+Treetop Flyers,Old Habits,3 December 2021,3.20,6,1
+Engine Kid,Special Olympics,3 December 2021,3.19,5,2
+Magenta,Songs From The Big Room,3 December 2021,3.50,1,4
+Mainliner,Eventual Survivors in Osaka 2021,3 December 2021,3.76,3,4
+Move D,Inside the Freero Dome,3 December 2021,3.12,15,1
+Geordie Greep Official,1000 Midis,3 December 2021,3.52,10,4
+Government Alpha / Coalminer,Dead Light Miasma,3 December 2021,3.74,3,4
+Keeper,MMXXI,3 December 2021,3.25,3,2
+Kramer,And the Wind Blew It All Away,3 December 2021,3.43,8,3
+Shy Eye,Spring Yard,3 December 2021,4.08,13,4
+Roberto Loreggian,Complete Unpublished Works for Harpsichord & Organ,December 2021,4.00,1,4
+Coakira,Amen Suicide EP,1 December 2021,3.34,8,1
+Mucoid,Maestro,30 November 2021,3.76,15,5
+Signal ST,"Zapoi and other dysfunctional love stories, closing the loops",30 November 2021,3.42,7,5
+Phish,"Live Phish 08/17/96: The Clifford Ball, Plattsburgh, NY",29 November 2021,4.58,7,1
+Serj Tankian & The F.C.C.,Live in Edmonton,29 November 2021,3.50,10,2
+Diessa,ASCII FANTASY,28 November 2021,4.10,5,4
+Wolfgang,Whatever,28 November 2021,3.33,5,4
+Alex Malheiros,Tempos futuros,27 November 2021,3.18,10,3
+"Simon Rose, Ernesto Rodrigues, Guilherme Rodrigues & Meinrad Kneer",Birds and Humans,27 November 2021,3.81,4,4
+Kashell,Ka$hell,26 November 2021,2.28,12,1
+Laurence Guy,Your Good Times Are Here,26 November 2021,2.84,12,4
+Coilguns,Shunners / Burrows,26 November 2021,3.46,6,2
+Andrzej Stasiuk / Mikołaj Trzaska,Opla Stasiuk Trzaska,26 November 2021,3.66,3,3
+Rufus Wainwright & Amsterdam Sinfonietta,Live,26 November 2021,3.13,8,1
+Morguiliath,"Occult Sins, New Unholy Dimension",26 November 2021,3.36,8,1
+Fedez,Disumano,26 November 2021,1.58,17,2
+Ergholae Somptator,Mille vertiges fondent sur les âmes vides,26 November 2021,2.84,13,1
+Misia Furtak,Wybory,26 November 2021,3.36,16,4
+Super Famous Fun Time Guys,"Mom's Not Offended, She's Concerned",26 November 2021,3.52,6,1
+Bordge,Neither the Time Nor the Place,26 November 2021,3.33,13,3
+Bernie Marsden,Chess,26 November 2021,3.11,6,1
+Dellafuente,Milagro,26 November 2021,3.57,13,4
+Sainted Sinners,Taste It,26 November 2021,3.00,4,-
+Jessica's Brother,Just Rain,26 November 2021,2.97,4,1
+Alien Force,We Meet Again,26 November 2021,3.16,6,2
+Alan Walker,World of Walker,26 November 2021,2.21,17,4
+Jaurim,영원한 사랑,26 November 2021,3.30,21,4
+TRUCKR,EMPTY ROAD 1,26 November 2021,3.50,25,5
+Ryan Hamilton,1221,26 November 2021,3.84,4,1
+Cristina Donà,deSidera,26 November 2021,2.48,8,-
+Maria Cristina Kiehr / Jonatan Alvarado / Ariel Abramovich,The Josquin Songbook - Music for Two Voices and Vihuela,26 November 2021,-,2,3
+Í Myrkri,Bag skyggernes slør,25 November 2021,3.52,18,3
+Rainbow Chan,Stanley,25 November 2021,3.44,10,4
+Glitchangel,Całe niebo/na wylot,25 November 2021,3.97,16,2
+さよならポニーテール [Sayonara Ponytail],Ginga (銀河),24 November 2021,-,inf,5
+Little Boy Velvet,HOLDEN,22 November 2021,3.00,11,3
+Aidan Baker,Fluss,22 November 2021,2.77,10,5
+Signs of the Dying Summer,Oto jest pustka,21 November 2021,3.38,6,1
+Tiny Little Houses,Misericorde,19 November 2021,3.22,22,4
+Unctoris,Shout Demise,19 November 2021,2.62,6,1
+Aufgang,Broad Ways,19 November 2021,3.11,5,1
+Gavinco,Beriza,19 November 2021,3.40,5,3
+Godless,States of Chaos,19 November 2021,3.06,10,2
+Mapache,3,19 November 2021,3.46,9,1
+Smile,Phantom Island,19 November 2021,3.17,3,2
+Duane Pitre,Omniscient Voices,19 November 2021,2.94,6,2
+French Montana,They Got Amnesia,19 November 2021,1.93,117,4
+Seaworthy &  Matt Rösner,Snowmelt,19 November 2021,2.81,9,2
+Belmont,Bowser's Mixtape,19 November 2021,2.41,13,4
+Monsta X,NO LIMIT,19 November 2021,2.76,26,2
+Michael Arthur Holloway,Strange Cargo,19 November 2021,3.62,16,2
+Sokół,Nic,19 November 2021,3.12,56,1
+Stillbirth,Strain of Gods,19 November 2021,3.26,22,1
+Smoke Supreme / RXK Nephew,SLITHER SMOKE,19 November 2021,2.78,46,2
+Taking Meds,Terrible News From Wonderful Men,19 November 2021,3.00,20,2
+Benjamin Lazar Davis,Benjamin Lazar Davis,19 November 2021,2.57,6,-
+Pendulum,Elemental (The Remixes),19 November 2021,2.40,12,2
+aldn,Predictable,17 November 2021,3.44,58,2
+Fugatta,The Darkest Planet,17 November 2021,3.75,2,2
+Coruja BC1,Brasil futurista,17 November 2021,3.58,14,3
+Younha,End Theory,16 November 2021,3.14,32,3
+FontanaMIXensemble,Solstices,16 November 2021,3.19,3,4
+Dianas,Little Glimmer,15 November 2021,2.86,6,3
+Cabin Boy,Osland,15 November 2021,3.89,5,3
+Кроль [Krol] & Majdanek Waltz,♄ (Сатурн),15 November 2021,3.29,7,3
+Leap Day,Treehouse,15 November 2021,3.14,5,2
+Imasgrohn,I Sliced Myself Open and Couldn't Find Anything,14 November 2021,3.44,10,3
+Sunday Service,Sunday Service,14 November 2021,3.35,15,4
+Ghédalia Tazartès,Gospel et le râteau,4 January 2022,-,inf,4
+Anitta,Girl From Rio,2022,1.16,10,3
+Left at London,Transgender Street Legend Vol. 3,2022,-,inf,4
+Descent,Order of Chaos,1 January 2022,-,inf,2
+Skid Row,United World Rebellion: Chapter Three,2022,-,inf,4
+Vacant Lights,Funeral Noise Exits,January 2022,-,inf,4
+Rae Sremmurd,SremmLife4,2022,-,inf,4
+Black River,Generation aXe,2022,-,inf,4
+Tristan Micah Waiden,Headcanon,1 January 2022,4.00,2,4
+Mucoid,UFO,1 January 2022,4.50,1,4
+Soft Machine,Facelift France & Holland,2022,0.50,1,4
+Kapala,Doomsday Requiem,31 December 2021,-,inf,4
+Lascaille's Shroud,The Gold Flesh of the Sun,31 December 2021,3.13,14,2
+Seven Nines and Tens,Over Opiated in a Forest of Whispering Speakers,29 December 2021,-,inf,3
+nxac.cd,Lily Breaks,24 December 2021,-,inf,3
+Won James Won,Loss Avoidage LTD,23 December 2021,3.50,4,1
+Animal Collective,Live at Music Box Village,23 December 2021,3.04,9,2
+강혜원 [Kang Hyewon],W,22 December 2021,3.67,25,2
+Corona Barathri,Lapis Sacrificialis,21 December 2021,-,1,3
+Vic Spencer & SonnyJim,Spencer for Higher 4,21 December 2021,3.46,10,1
+MC Lars,Blockchain Planet,17 December 2021,3.08,7,1
+Fargue,"Ruines, Irradiées",17 December 2021,3.25,3,4
+Myrdød,The Mourning Hollow,17 December 2021,3.10,6,2
+Solarus,A Dance With Tragedy,17 December 2021,3.50,1,1
+Needlepusher,Abyssal Internment,17 December 2021,3.56,13,2
+Wound,Serpent Crown,17 December 2021,3.50,6,2
+Gucci Mane,So Icy Christmas,17 December 2021,2.49,42,2
+Phenocryst,Explosions,17 December 2021,3.00,5,1
+Anberlin,Under a Dying Sun,17 December 2021,3.00,1,3
+灰野敬二 [Keiji Haino],"The World of Keiji Haino: Stab victory, at least do this",17 December 2021,-,inf,4
+Augie March,Bloodsport & Porn,15 December 2021,3.78,2,3
+ШЛЕМ [SHLEM],Верхом на Кукулькане,13 December 2021,3.00,7,1
+New Grass,Scordatura_Perforations,13 December 2021,3.75,9,3
+Mikhail & The Laser Brother's,Sweetlaser,13 December 2021,3.89,4,4
+Count to Altek,Movements In Synthetic Rhythm,12 December 2021,4.02,5,3
+Avskräde,Det stora tunga sjuka,12 December 2021,3.25,6,1
+Rising Insane,Afterglow,10 December 2021,3.75,9,1
+Widespread Panic,Miss Kitty’s Lounge,10 December 2021,-,inf,3
+Curren$y,Half Moon Bay,10 December 2021,-,inf,4
+Darkest Mind,Oracle of Death,10 December 2021,3.57,8,-
+There's a Light,For What May I Hope? For What Must We Hope?,10 December 2021,3.18,17,1
+Agarthic,The Inner Side,10 December 2021,3.50,2,1
+Psilocybe Larvae,Where Silence Dwells,10 December 2021,4.50,3,2
+Zelbo,In My Dreams,10 December 2021,3.45,8,-
+Cairo Free Jazz Ensemble,Music for Angela Davis,10 December 2021,-,inf,3
+Mordom,Cry of the Dying World,10 December 2021,3.10,7,-
+Land of Gypsies,Land of Gypsies,10 December 2021,3.62,5,-
+Lifelost,Punitive Damnation,10 December 2021,3.33,9,-
+O'Brother,Garden Window Live at Maze Studios,10 December 2021,4.00,1,3
+Ziemba,Unsubtle Magic,10 December 2021,2.58,8,1
+Thalarion,Dying on the Scorched Plains,10 December 2021,3.21,6,3
+Boulevard Depo & SP4K,Qwerty Lang,10 December 2021,3.26,38,2
+Pixies,"Live From Rock & Roll Hall of Fame, Cleveland, Oh. June 8th, 2005",10 December 2021,2.90,7,3
+花伦,WUHAN WUHAN 武汉武汉,10 December 2021,3.10,5,1
+Rio da Yung OG,Fiend Lives Matter,10 December 2021,3.35,27,3
+Quetzal Tirado,Eseménysorozat,10 December 2021,3.71,7,1
+Christophe Beck & Michael Paraskevas,Hawkeye: Vol. 1 (Episodes 1-3),10 December 2021,3.12,6,-
+Cheer-Accident,Hong Kong,10 December 2021,2.50,4,4
+King Gizzard and the Lizard Wizard,Live at Levitation '14,10 December 2021,3.86,28,2
+King Gizzard and the Lizard Wizard,Live at Levitation '16,10 December 2021,3.93,23,2
+American Aquarium,"Slappers, Bangers & Certified Twangers, Vol. 2",10 December 2021,3.40,5,2
+Forrest Fang,Forever Cascades,10 December 2021,-,inf,2
+Gareth Coker / Joel Corelitz / Curtis Schweitzer,Halo Infinite,10 December 2021,3.00,6,1
+Hans Zimmer & David Fleming,The Unforgivable,10 December 2021,1.50,4,2
+"Oh No Noh, Midori Hirano & Jo David Meyer Lysne",Distant Sediments,10 December 2021,3.52,5,4
+Isobar,Isobar II,10 December 2021,3.39,5,3
+Julia Stone,Everything Is Christmas,10 December 2021,3.12,5,2
+橋本絵莉子 [Eriko Hashimoto],日記を燃やして (Burn a Diary),8 December 2021,3.50,5,2
+パスピエ [Passepied],ニュイ,8 December 2021,3.38,19,2
+More ？Sugar,"""It Will Have Occurred""",8 December 2021,3.76,5,4
+Danny Norbury,Rue d'Aligre,7 December 2021,3.11,5,1
+Wolfswut,Highest Honor,7 December 2021,3.22,6,-
+KirbLaGoop,Kirb May Cry,7 December 2021,3.57,14,3
+Umwelt,Subversive Territory,5 December 2021,2.67,3,3
+天気予報,Mountain II,5 December 2021,3.50,1,4
+Jakob Lindberg,Bach on the Rauwolf Lute,3 December 2021,2.91,4,4
+Pearly Gate Music,Mainly Gestalt Pornography,3 December 2021,3.28,6,2
+Small Cruel Party,è vago fior del tempo,3 December 2021,3.50,4,3
+Dave Matthews Band,"Live Trax Vol. 58: 6.22.00 - Deer Creek Music Center - Noblesville, Indiana",3 December 2021,4.00,1,-
+Antwerp Symphony Orchestra / Storioni Trio / Olari Elts / Dimitri Mestdag / Anneleen Lenaerts,Double & Triple Concertos,3 December 2021,3.00,4,2
+Somnolent,The Infernal Expanse,3 December 2021,3.27,7,2
+ONF,Goosebumps,3 December 2021,3.07,28,2
+Decerebration,Follow the Scars,3 December 2021,3.50,11,1
+M.I.C & Nammy Wams,White Britain Hates Him! Find Out His Secret...,3 December 2021,3.25,3,2
+Rift,To Quench the Thirst of Wolves,3 December 2021,2.89,10,-
+Munich Radio Orchestra / Christian Baldini / Maximilian Haft / Miranda CucksonMünchner RundfunkorchesterChristian BaldiniMaximilian HaftMiranda Cuckson,Amériques / Violin Concerto / Chain 2 / Elapsing Twilight Shades,Münchner RundfunkorchesterChristian BaldiniMaximilian HaftMiranda Cuckson,2.12,7,3
+Nardo Wick,Who Is Nardo Wick?,3 December 2021,2.82,74,3
+The Scaramanga Six,Worthless Music,3 December 2021,3.71,4,2
+K-Lone,Zissou,3 December 2021,3.14,13,3
+Max Pie,Passengers,3 December 2021,3.12,4,2
+Locked Club,Egipet,3 December 2021,3.27,25,3
+Olli Aarni,Värejä hangella,3 December 2021,3.17,9,3
+Perila,Survivors Kit,3 December 2021,3.02,4,4
+Coez,Volare,3 December 2021,2.58,19,1
+Tusken Raiders,Boundary Road,3 December 2021,3.00,7,1
+Dead Soma,Faces Which No Mask Could Ever Conceal,3 December 2021,3.55,10,2
+Celer,"Gems, 16",3 December 2021,3.00,6,4
+DJ Polo & NKC,Yeyeyeye,3 December 2021,3.32,10,3
+Pile of Love,Pile of Love,3 December 2021,3.57,10,1
+Nick Lutsko,More Songs on the Computer,3 December 2021,4.26,8,2
+Knxwledge,VGM.15,3 December 2021,3.41,12,2
+LEISURE,Sunsetter,3 December 2021,3.28,16,1
+Epica,Omega Alive,3 December 2021,3.67,4,3
+The Mother Hips,Glowing Lantern,3 December 2021,3.54,3,1
+Celer,"Gems, 15",2 December 2021,2.92,7,3
+Cozz,Fortunate,2 December 2021,2.75,26,1
+天気予報,Channel AA,2 December 2021,2.50,1,4
+サイダーガール [Cidergirl],Soda Pop Fanclub 4,1 December 2021,3.10,7,2
+Jizue,Garden,1 December 2021,3.26,17,2
+Choro Club & 妹尾武 [Takeshi Senoo],"""ARIA the CREPUSCOLO"" ""ARIA the BENEDIZIONE"" Original Soundtrack Quattro",1 December 2021,3.67,3,4
+SHISHAMO,ブーツを鳴らして - EP (Boots o narashite - EP),1 December 2021,3.69,3,4
+Machacha,Copenhagen Crates Presents The Hundred,1 December 2021,2.50,4,-
+Orkiestra Muzyki Nowej / Duo Skweres / Szymon Bywalec / Tomasz Skweres / Mateusz Ryczek,Cello Works,December 2021,-,inf,4
+CashCache,I Love Cashcache 3!,1 December 2021,3.30,15,2
+Diabarha,Portrait,1 December 2021,4.17,3,2
+Orkiestra Symfoniczna Filharmonii Narodowej / Witold Rowicki / Martha Argerich / Arthur Moreira Lima,Fryderyk Chopin: Piano Concertos 1 & 2,1 December 2021,3.24,5,4
+Lucero,Live From Red Rocks,1 December 2021,4.00,2,2
+Joëlle Léandre,At Souillac en Jazz,30 November 2021,-,inf,3
+Phish,"Live Phish 08/16/96: The Clifford Ball, Plattsburgh, NY",29 November 2021,4.28,9,1
+To Forget,Echoes Take Their Place,29 November 2021,3.60,5,2
+Theo Parrish,6 Hour Mix: 28th November 2021,29 November 2021,3.50,2,4
+Dan Deacon,Ascension,29 November 2021,2.84,6,3
+Savage Deity,Decade of Savagery,28 November 2021,3.18,12,1
+The Constructus Corporation,From the Vault,28 November 2021,3.62,9,4
+Beto Vázquez Infinity,Mental Asylum,27 November 2021,2.97,4,-
+平沢進 [Susumu Hirasawa],架空のソプラノ Interactive Live Show SIREN,27 November 2021,4.07,15,3
+Chris Holm & Orions Belte,Chris Holm,26 November 2021,3.12,4,2
+Sei Still,El Refugio,26 November 2021,3.43,14,1
+We Are the Catalyst,Perseverance,26 November 2021,3.07,14,1
+Benothing,Temporal Bliss Surrealms,26 November 2021,3.18,20,3
+Rhys Fulber,Brutal Nature,26 November 2021,3.72,25,3
+Quiqui,もう少しの暦 (Calendar),26 November 2021,-,inf,2
+Abhorration,After Winter Comes War,26 November 2021,3.42,9,2
+SIMM,Too Late to Dream,26 November 2021,3.47,13,1
+Czesław Mozil,#IDEOLOGIAMOZILA,26 November 2021,3.50,4,3
+Fawns of Love,Innocence of Protection,26 November 2021,2.93,11,2
+Arisa,Ero romantica,26 November 2021,3.00,3,2
+Fools Garden,Captain ... Coast Is Clear,26 November 2021,3.00,5,-
+Lynx,Watcher of Skies,26 November 2021,3.30,9,-
+Remedy,Remedy Meets Wu-Tang,26 November 2021,2.68,16,1
+Audio,[Unsocial],26 November 2021,3.30,11,-
+Blodtår,Blodtår,26 November 2021,3.28,15,-
+Flora Matos,Flora de controle,26 November 2021,3.29,8,4
+Breakage,"At the Controls, Vol. 2",26 November 2021,3.25,2,3
+Natisú,Hay un fuego,26 November 2021,3.75,12,1
+Von Bikräv,200% Bibi,26 November 2021,3.99,11,2
+K Amon K,Arca Ende Aeterna,26 November 2021,3.62,9,-
+Asia,"The Official Live Bootlegs, Vol. 1",26 November 2021,3.00,3,2
+Katie Melua,Acoustic Album No. 8,26 November 2021,2.86,6,1
+Musa Dagh,Musa Dagh,26 November 2021,3.42,7,-
+Die Cronopien – Kollektiv für Interkulturelle Neue Musik,Zikkus,25 November 2021,-,inf,4
+Medina Azahara,Llegó el día,25 November 2021,3.35,4,3
+Jon Hopkins,241121,25 November 2021,3.18,5,2
+Spółdzielnia Muzyczna Contemporary Ensemble,"Kagel, Donatoni, Szymański, Muntendorf, Peszat, Eizirik",25 November 2021,-,inf,4
+土岐麻子 [Asako Toki],Twilight,24 November 2021,3.66,15,3
+STL,XLR8R 723,24 November 2021,-,1,3
+Caliza,El descenso,23 November 2021,3.58,6,2
+God Body Disconnect,The Dormancy,23 November 2021,2.70,5,4
+Oolacile,Perceiver Pt. 2 Reality Simulator,23 November 2021,3.42,14,2
+Kelbin,EFYL,23 November 2021,3.93,19,2
+Kazuhisa Uchihashi,Singing Daxophone,22 November 2021,-,inf,4
+SF9,Rumination,22 November 2021,2.78,21,2
+"Sam Andreae, David Birchall, Toshimaru Nakamura & Otto Willberg",UK ツアー 2019,22 November 2021,-,2,4
+Paard,Danki,21 November 2021,3.73,7,4
+Fort Romeau,RA.807,21 November 2021,3.50,3,3
+No Curfew Kids,The Night Rider 11/20/2021,20 November 2021,4.38,2,2
+Navalum,On the Threshold of Creation,20 November 2021,3.50,4,1
+Dark Sanctuary,Iterum,20 November 2021,3.61,11,4
+Chris Liebing,Another Day,19 November 2021,2.84,16,1
+Peter Capaldi,St. Christopher,19 November 2021,2.97,7,1
+Penny Rimbaud & Youth,Corpus Mei,19 November 2021,3.76,4,2
+Ultra Q,Get Yourself a Friend,19 November 2021,3.37,15,2
+FireWölfe,Conquer All Fear,19 November 2021,3.00,5,1
+Merzbow,Double Beat Sequencer Vol. 3,19 November 2021,-,inf,4
+Merzbow,Double Beat Sequencer Vol. 4,19 November 2021,-,inf,4
+Daxma,Unmarked Boxes,19 November 2021,3.18,24,1
+Traffik Island,A Shrug of The Shoulders,19 November 2021,3.35,13,1
+Jim Lindberg,Songs From the Elkhorn Trail,19 November 2021,3.00,5,3
+Pigeon,Yagana EP,19 November 2021,3.20,6,2
+Eagles of Death Metal,Eagles of Death Metal Presents A Boots Electric Christmas,19 November 2021,1.97,9,1
+Terror Jr,Road to Grapeness,19 November 2021,2.91,23,2
+Trend Kill Ghosts,Until the Sunrise Again,19 November 2021,3.04,3,1
+팔황단 [Pal Hwang Dan],2013-2021 Seoul,19 November 2021,3.58,8,3
+Спасибо [Spasibo],Терпение,19 November 2021,3.53,23,4
+John Foxx,Church,19 November 2021,3.50,2,3
+Phil Cook,All These Years,19 November 2021,2.89,5,1
+Cryypt,အငွေ့လှိုင်း (Vaporwave),19 November 2021,4.25,3,3
+Carl Sentance,Electric Eye,19 November 2021,3.00,3,1
+Merdh Laleh,Ardent Flux,19 November 2021,3.62,11,3
+Hydro x TestaRossa x ZeroHydro da GodTesta RossaZerosuit,Invasion,Hydro da GodTesta RossaZerosuit,3.50,9,2
+Rosalía,Memento Mori Ep. 22: ROSALÍA,19 November 2021,4.00,3,4
+Electric Moon Meets Talea JactaElectric MoonTalea Jacta,Sabotar,Electric MoonTalea Jacta,3.47,3,2
+Fishdoll,Moonsense / 月感,18 November 2021,3.25,8,4
+Ankou,Cosmogony,18 November 2021,3.58,13,3
+Restraining Order / Warfare,Restraining Order / Warfare [olive green vinyl],17 November 2021,3.27,13,2
+Citizen Soldier,This Is Your Sign  (Part 1),17 November 2021,3.94,11,-
+Owen,Live at the Lexington,17 November 2021,3.75,4,2
+Flipp Dinero,Table for One,16 November 2021,2.64,13,2
+Kinlaw & Franco Franco,Mega Dopo Mega,15 November 2021,3.31,7,3
+Neil Campbell,Fog Octember,15 November 2021,4.00,1,2
+Chris Norman,Just a Man,15 November 2021,3.50,2,1
+Apogee,The Blessing and the Curse,13 November 2021,-,inf,3
+Rodneyy,On My Time,13 November 2021,3.57,11,3
+Dubstar,Two,2022,-,inf,3
+The Lanterns,Holy Water & Honey,2022,-,inf,3
+Witch Hunt,Rock n´Roll Possession,2022,3.00,1,1
+Blind Illusion,Wrath of the Gods,2022,-,inf,2
+Paul Romero & Rob King,Heroes of Might and Magic III Original Soundtrack,2022,-,inf,2
+amaii,I've Seen Better Days,2022,-,inf,3
+Emily Wells,Regards to the End,1 January 2022,-,inf,3
+Bevar Sea,The Timeless Zone,2022,-,inf,3
+Shakewell,Pray 4 Shakewell,January 2022,-,inf,3
+Mantiel,Obskurité,2022,-,inf,2
+Kill the Noise,EMBRACƎ,2022,-,inf,3
+Dead City CCTV,Dead City CCTV,1 January 2022,-,1,3
+Feuerschwanz,Memento Mori,31 December 2021,-,inf,3
+t+pazolite & ななひら [Nanahira],Screamin' Showcase,31 December 2021,-,inf,3
+IU,Pieces,29 December 2021,-,inf,3
+EMCECRPAM,(VIH)³,26 December 2021,-,inf,3
+Antilopen Gang,Antilopen Geldwäsche Sampler 1,24 December 2021,-,inf,3
+DJ Sabrina the Teenage DJ,Dj Sabrina the Teenage Dj's Centember Soun-,23 December 2021,3.60,5,2
+O.H. Westberg,The Chew,23 December 2021,4.00,1,2
+井上拓 [Taku Inoue],Aliens EP,22 December 2021,2.50,5,3
+Jad Fair,The Party Is Just Getting Started,22 December 2021,3.50,1,2
+LCD Soundsystem,LCD Soundsystem Holiday Special,22 December 2021,3.99,6,3
+Blisplibidy,Doomsday Culture,21 December 2021,-,inf,3
+CMPT [SMRT],Krv i pepeo,21 December 2021,3.00,2,1
+Cookin' Soul,Wu Xmas,21 December 2021,3.28,22,1
+Pixel Mixers,Tranquility,20 December 2021,-,inf,2
+Tran Uy Duc,Came,20 December 2021,2.82,6,2
+미나 [Mina],Snowman,19 December 2021,4.50,3,2
+X'erox Koy0tiiz,Porn Ahead,19 December 2021,4.50,3,1
+Buckethead,The Chariot of Saturn,18 December 2021,3.48,9,3
+Bašmu,Grand Spell of Illusion,18 December 2021,3.21,7,2
+Wolftopia,Ways of the Pack,17 December 2021,3.33,4,-
+KHNVM,Portals to Oblivion,17 December 2021,3.33,6,1
+Merzbow,Double Beat Sequencer Vol. 5,17 December 2021,-,1,3
+Merzbow,Double Beat Sequencer Vol. 6,17 December 2021,-,inf,3
+Dolven,The Tyranny of Time,17 December 2021,4.00,1,2
+Ember Falls,Ruins,17 December 2021,3.76,6,1
+FEMM,Tokyo Girls Anthem,17 December 2021,2.64,7,1
+Enei & Kasra,Remote Transmissions,17 December 2021,2.69,4,1
+Diablery,Candles,17 December 2021,3.37,5,1
+La Fève,ERRR,17 December 2021,3.45,34,1
+Zovi,I LOVE MY PLUSHIES A LOT,17 December 2021,4.16,6,2
+ღDJ魔女っ娘ミラクるんღ [ღ DJ Witch Girl Miracle ღ],MIR4CLEN 2,17 December 2021,3.58,8,-
+Marta Forsberg,Light Colours in Jyderup,17 December 2021,3.00,6,2
+Białas,Murem za Bonusem,16 December 2021,2.53,21,2
+noellemustdie,"I HATE MUSIC, ESPECIALLY SONGS AND ALBUMS",16 December 2021,2.50,1,3
+Martina Rudic / Michele Gamba,Correspondences,15 December 2021,-,inf,3
+Yikii,TANK mix,15 December 2021,3.67,4,1
+Orob,Aube Noir,14 December 2021,3.25,6,1
+Etsun,Nu-Beat!,14 December 2021,4.33,3,3
+The Amity Affliction,Somewhere Beyond the Blue,14 December 2021,3.68,30,2
+Jonathan Richman,Want to Visit My Inner House?,14 December 2021,3.50,1,2
+Michel Banabila,Echo Transformations,13 December 2021,3.24,7,3
+yerdnan2005,shtl crush,13 December 2021,3.00,2,-
+Djonga,AQuadrilha,13 December 2021,2.35,7,1
+øjeRum,Støvfald,13 December 2021,-,2,3
+Sacrificium Carmen,Nekrognosis - Avain varjoihin,12 December 2021,2.75,4,-
+Wakana Ikeda & Stefan Thut,Afar,12 December 2021,-,1,3
+Dampo,Soul Eater,12 December 2021,4.62,4,3
+Unconsecrated,Reveal of the Dead,11 December 2021,3.15,3,1
+Big Dumb Face,Christmas in the Cave of Dagoth,11 December 2021,2.97,12,2
+No God Only Teeth,Placenta,10 December 2021,3.17,3,1
+Liiek,Deep Pore,10 December 2021,3.70,5,2
+Soul Remnants,Raising the Sacrificial Dagger,10 December 2021,3.40,5,1
+David Allred,Driving Through the Aftermath of a Storm on a Clear Day,10 December 2021,3.07,7,-
+A Boogie wit da Hoodie,B4 AVA,10 December 2021,2.30,47,3
+Holst-Sinfonietta / Klaus Simon,Besilvering,10 December 2021,-,inf,3
+Nadar de Noche,Quietud,10 December 2021,3.00,2,-
+OT the Real & DJ Green Lantern,Broken Glass,10 December 2021,3.01,10,1
+Drippin So Pretty,Blood on My Jacket,10 December 2021,3.15,22,3
+Alan Power,Alan,10 December 2021,4.00,4,-
+ATEEZ,ZERO : FEVER EPILOGUE,10 December 2021,2.71,29,1
+J. Albert,Phase Portrait,10 December 2021,3.32,7,3
+San Fermin,In This House,10 December 2021,3.01,7,1
+Bunbury,El Puerto EP,10 December 2021,3.56,7,-
+Jul,Indépendance,10 December 2021,3.36,9,2
+YoungBoy Never Broke Again & Birdman,From the Bayou,10 December 2021,2.65,48,2
+Put Pùrana,Sospinti da una Massa Remota,10 December 2021,3.00,2,1
+Mondaze,Late Bloom,10 December 2021,3.50,9,-
+Gin Lady,Camping With Bodhi,10 December 2021,3.85,4,1
+Nuclei in Wait,Wield Me,9 December 2021,3.51,10,2
+天気予報,穏やかな道路,9 December 2021,-,inf,3
+Tape Loop Orchestra,Liminal Lungs,9 December 2021,3.17,3,2
+Sam Gendel,AE-30,8 December 2021,2.71,14,3
+大塚愛 [Ai Otsuka],Love Pop,8 December 2021,2.85,12,1
+天気予報,無限1,8 December 2021,3.00,1,3
+Devil Cross,This Mortal Coil,7 December 2021,3.00,2,1
+Olivia Rodrigo,Tiny Desk (Home) Concert,7 December 2021,3.41,18,1
+天気予報 [Weather Forecast],Best Kept Secrets,6 December 2021,-,inf,3
+Hus Kingpin,Holiday Hus: XXXmas,6 December 2021,2.87,15,2
+Angelspit,Diesel Priest,5 December 2021,2.50,1,1
+Saline,Never Structures,5 December 2021,3.75,7,1
+Bull of Heaven,down and back,5 December 2021,3.66,3,2
+The Last Resort,Skinhead Anthems IV,4 December 2021,3.27,4,2
+Tom Caruana,Return to Pepperland,4 December 2021,-,inf,-
+Cutterred Flesh,Sharing is Caring,3 December 2021,2.81,11,1
+The Cutthroat Brothers and Mike WattThe Cutthroat BrothersMike Watt,Devil in Berlin,The Cutthroat BrothersMike Watt,3.00,2,-
+Annie Booth,Lazybody,3 December 2021,3.38,8,1
+Gomorran,Excerpts From the Dark Age,3 December 2021,3.28,3,-
+Raccoon Tour,The Dentonweaver,3 December 2021,2.97,25,2
+UFO,Cleveland 1982,3 December 2021,-,inf,3
+This Ending,Let the World Burn,3 December 2021,4.00,2,1
+Chrome Sparks & Reo Cragun,Void,3 December 2021,3.24,10,3
+Moonstone,1904,3 December 2021,3.97,5,2
+Armida Quartett,String Quartets Vol. 4,3 December 2021,3.50,1,3
+Ernte,Geist und Hexerei,3 December 2021,2.94,11,1
+Chelys Consort of Viols,Fantazias,3 December 2021,3.00,2,2
+Neonix,The Lee Jenningsest EP,3 December 2021,3.57,7,1
+Wooli,Resurrection EP,3 December 2021,2.45,9,3
+Kurious & Ro Data,Koncrete Jungle,3 December 2021,2.98,7,1
+shallou,The Long Way Home,3 December 2021,3.50,4,2
+Rauchen,Nein,3 December 2021,2.83,4,1
+Music for Sleep,La coesione tra i due mondi,3 December 2021,3.50,1,2
+Daniel Pemberton,Being the Ricardos,3 December 2021,2.75,2,1
+Tatsuya Yoshida & Risa Takeda,Mirage,3 December 2021,3.67,4,2
+EST Gee,"Bigger Than Life or Death, Pt. 2",3 December 2021,3.16,35,3
+Equinox,Moments in Bass EP,3 December 2021,-,inf,3
+Simulakra,Mankind is a Disease,3 December 2021,3.56,10,3
+Arrested Development,For the FKN Love,3 December 2021,3.43,11,2
+Arkham Witch,Three Bladed Doom,3 December 2021,3.81,6,1
+Serengeti,Captain Malena Side A,3 December 2021,4.00,3,1
+Famous Last Words,The Negative,3 December 2021,3.34,7,2
+Bear McCreary / Joseph Trapanese,Star Wars: Tales from the Galaxy's Edge,3 December 2021,3.00,2,2
+Christian Kjellvander,Exitas (Music for the Artwork of Jacob Felländer),3 December 2021,3.00,6,-
+Overo / Punch On! / Zochor / Coma Regalia,Another Year in Hell,3 December 2021,3.15,4,3
+Exael,infinite shore / xm,3 December 2021,3.00,5,3
+Boneflower / Lang,Dolor / 遠来,3 December 2021,3.62,5,1
+天気予報,Yume (2009年3月19日),3 December 2021,3.50,1,3
+Kurt Rosenwinkel,Kurt Rosenwinkel Plays Piano,3 December 2021,-,inf,3
+Giorgio Poi,Gommapiuma,3 December 2021,2.82,19,2
+Jason Boland & The Stragglers,The Light Saw Me,3 December 2021,3.22,9,-
+Daily Thompson,God of Spinoza,3 December 2021,3.67,3,1
+Sydney Spann,Oceanic/E.L.M.,3 December 2021,4.00,2,2
+Krampusnacht,Krampusferatu,3 December 2021,3.41,6,2
+Маврин,Иди и смотри,3 December 2021,2.83,3,1
+Robert Turman,Mystery Tape,3 December 2021,2.64,4,3
+Professor Tip Top,Lanes of Time,3 December 2021,3.75,4,1
+Guild of Lore,The Spine of Night,3 December 2021,3.68,8,2
+Ian Boddy & Nigel Mullaney,Smoke & Mirrors,3 December 2021,4.00,1,2
+Metamorphagist,Cyberwaste.exe,2 December 2021,3.84,4,3
+G.Soul,Natural,2 December 2021,2.42,9,2
+Coldplay,Infinity Station Sessions,2 December 2021,2.43,5,3
+Eartheater,Couture Mix,2 December 2021,2.75,2,1
+Matt Martians,Butterfly Don't Visit Caterpillar,2 December 2021,3.11,16,2
+Edward Ka-Spel,Dark Window Wave,2 December 2021,3.78,2,1
+Brojob,Covered in Brojob Vol. 1,2 December 2021,3.00,4,1
+Diablation,Allégeance,1 December 2021,3.12,8,-
+DJ Lag,Meeting With the King,December 2021,-,inf,3
+Night Tempo,Ladies in the City,1 December 2021,3.15,16,2
+Bring Forth the Exodus,Rituals From a Dying Forest,1 December 2021,3.01,7,-
+The Crams,Blue Burns Through the Soul,1 December 2021,-,inf,2
+Mod Sens / Delian Sound / Borai,Lunar VA001,1 December 2021,3.67,3,2
+Wreck-Defy,The World Enslaved,1 December 2021,2.75,3,-
+Swedish Chamber Orchestra / Thomas Dausgaard,Symphonies 1 & 3 'Scottish',December 2021,1.94,2,3
+Destillat,Under Black Horizons,December 2021,3.83,4,-
+Malkenoa,City Symphonies,1 December 2021,3.33,3,2
+Dialect,Keep Going... Under,1 December 2021,3.36,8,3

@@ -5,12 +5,13 @@ import matplotlib.pyplot as plt
 
 # ------------------------------------- KNN:
 def knn(data):
+    pass
     # Mean normalized value for number of Ratings
-    temp = data['# Ratings'][:]
-    for i in range(len(temp)):
-        temp = int(temp[i])
+    # temp = data['# Ratings'][:]
+    # for i in range(len(temp)):
+    #     temp = int(temp[i])
 
-    print(type(temp))
+    # print(type(temp))
 
 
 
@@ -22,15 +23,14 @@ def load():
 def pretty_print(data):
     # Special print functions
     with pd.option_context('display.max_columns', None):
-        print(data.head())
+        print(data.head(10))
+
 def save():
     pass
+
 def pretty_plot(data):
-    # avg_rating = data['Avg'].to_numpy()
-    # print(avg_rating)
-    # plt.plot(avg_rating)
-    # plt.show()
-    pass
+    data.plot(kind = 'scatter', x="Avg" , y="# Ratings")
+    plt.show()
 
 # ------------------------------------- Helper Settings:
 # Pandas
@@ -41,7 +41,8 @@ if __name__ == '__main__':
     # Load data set
     data = load()
     # Check the data
-    # pretty_print(data)
+    pretty_print(data)
+    pretty_plot(data)
 
     knn(data)
 

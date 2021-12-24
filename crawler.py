@@ -101,7 +101,7 @@ def turn_into_pandas(arr):
 if __name__ == "__main__":
     # Run the crawler
     # The number of pages we need to crawl for this website. each pages has 25 entries
-    num_pages = 10
+    num_pages = 50
     Sleep = 2
     Seed = "https://rateyourmusic.com/new-music/"
 

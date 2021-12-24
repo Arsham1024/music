@@ -16,10 +16,13 @@ def string_toint(col_name):
 
 if __name__ == '__main__':
 
-    df = pd.read_csv("./output/new_releases.csv")
+    # Read in the data into pandas
+    path = "./output/new_releases.csv"
+    df = pd.read_csv(path)
 
-
+    # col to change to strings
     col_name = "# Ratings"
     string_toint(col_name)
 
-    
+    df.to_csv("./output/new_releases.csv", index=False)
+
