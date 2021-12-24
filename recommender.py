@@ -3,8 +3,14 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
+# ------------------------------------- KNN:
+def knn(data):
+    # Mean normalized value for number of Ratings
+    temp = data['# Ratings'][:]
+    for i in range(len(temp)):
+        temp = int(temp[i])
 
-
+    print(type(temp))
 
 
 
@@ -35,7 +41,9 @@ if __name__ == '__main__':
     # Load data set
     data = load()
     # Check the data
-    pretty_print(data)
+    # pretty_print(data)
+
+    knn(data)
 
 
 

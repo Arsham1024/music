@@ -51,6 +51,7 @@ def crawler(num_pages):
         for i in to_save:
             # implement a check for duplicates
             writer.writerow(i)
+
     # Output is successful
     print("Data gathered from the website was successfully saved to outputs")
 
