@@ -12,7 +12,6 @@ import matplotlib.pyplot as plt
 def load():
     with open("./output/new_releases.csv", "r") as f:
         data = pd.read_csv(f , index_col=False, header=0)
-        
     return data
 def pretty_print(data):
     # Special print functions
@@ -21,9 +20,9 @@ def pretty_print(data):
 def save():
     pass
 def pretty_plot(data):
-    print(type(data))
-
-    data.plot()
+    avg_rating = data['Avg', 'Wants'].to_numpy()
+    print(avg_rating)
+    plt.plot(avg_rating)
     plt.show()
 
 # ------------------------------------- Main:
@@ -32,6 +31,8 @@ if __name__ == '__main__':
     data = load()
     # Check the data
     pretty_print(data)
+
+
     pretty_plot(data)
 
 
