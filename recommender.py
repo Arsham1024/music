@@ -1,19 +1,40 @@
 import numpy as np
 import pandas as pd
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
 
-def showdata():
 
+
+
+
+
+# ------------------------------------- Helper Functions:
+def load():
     with open("./output/new_releases.csv", "r") as f:
-        imported_data = pd.read_csv(f , index_col=False)
+        data = pd.read_csv(f , index_col=False, header=0)
+        
+    return data
+def pretty_print(data):
+    # Special print functions
+    with pd.option_context('display.max_columns', None):
+        print(data.head())
+def save():
+    pass
+def pretty_plot(data):
+    print(type(data))
 
-    print(imported_data)
-    data = pd.DataFrame(imported_data, columns=indexing)
+    data.plot()
+    plt.show()
 
-
-    with pd.option_context('display.max_columns', None):  # more options can be specified also
-        print(data)
-
+# ------------------------------------- Main:
 if __name__ == '__main__':
+    # Load data set
+    data = load()
+    # Check the data
+    pretty_print(data)
+    pretty_plot(data)
 
-    indexing = ["Artist", "Song" , "Date Released", "Avg", "Number of People Who Rated", "Wants"]
-    showdata()
+
+
+
+
