@@ -20,10 +20,15 @@ def pretty_print(data):
 def save():
     pass
 def pretty_plot(data):
-    avg_rating = data['Avg', 'Wants'].to_numpy()
-    print(avg_rating)
-    plt.plot(avg_rating)
-    plt.show()
+    # avg_rating = data['Avg'].to_numpy()
+    # print(avg_rating)
+    # plt.plot(avg_rating)
+    # plt.show()
+    pass
+
+# ------------------------------------- Helper Settings:
+# Pandas
+pd.set_option('display.max_columns',None, 'display.width', None)
 
 # ------------------------------------- Main:
 if __name__ == '__main__':
@@ -33,7 +38,6 @@ if __name__ == '__main__':
     pretty_print(data)
 
 
-    pretty_plot(data)
 
 
 
