@@ -2,16 +2,12 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 
 # ------------------------------------- KNN:
 def knn(data):
     pass
-    # Mean normalized value for number of Ratings
-    # temp = data['# Ratings'][:]
-    # for i in range(len(temp)):
-    #     temp = int(temp[i])
-
-    # print(type(temp))
+    
 
 
 
@@ -29,7 +25,8 @@ def save():
     pass
 
 def pretty_plot(data):
-    data.plot(kind = 'scatter', x="Avg" , y="# Ratings")
+    ax = data.plot(kind='scatter', x="Avg", y="# Ratings")
+    ax.xaxis.set_major_locator(MaxNLocator(20))
     plt.show()
 
 # ------------------------------------- Helper Settings:
