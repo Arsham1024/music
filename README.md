@@ -18,4 +18,4 @@
 <h2> Expected Completion Date: June 2022 </h2>
 
 <h2> Prototype </h2>
-![alt text](https://github.com/arsham1024/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img src="https://github.com/Arsham1024/music_recommender/blob/master/pics/Demo_pics.jpg" alt="prototype"/>
