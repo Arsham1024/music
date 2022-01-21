@@ -17,5 +17,9 @@
 
 <h2> Expected Completion Date: June 2022 </h2>
 
-<h2> Prototype </h2>
+<h2> Prototype done with Figma </h2>
+<h5> screens <h5>
 <img src="https://github.com/Arsham1024/music_recommender/blob/master/pics/Demo_pics.jpg" alt="prototype"/>
+  
+<h5> demo <h5>
+<img src="https://github.com/Arsham1024/music_recommender/blob/master/pics/Demo_gif_1.gif" alt="prototype"/>
